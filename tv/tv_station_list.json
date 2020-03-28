@@ -1,9 +1,22 @@
 {
-    "stations": [{
+    "stations": [
+        {
+            "name": "CGTN",
+            "url": [
+                "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
+                "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
+                "http://live.cgtn.com/1000/prog_index.m3u8",
+                "http://live.cgtn.com/500/prog_index.m3u8",
+                "http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8",
+                "https://livedoc.cgtn.com/1000d/prog_index.m3u8",
+                "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8"
+            ]
+        },
+        {
             "name": "CCTV-1",
             "url": [
-                "http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8",
                 "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+                "http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8",
                 "http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8",
                 "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8",
                 "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227462/index.m3u8",
@@ -201,8 +214,8 @@
         {
             "name": "CCTV-13",
             "url": [
-                "http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8",
+                "http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8",
                 "http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8",
                 "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8",
                 "http://hhab.chinashadt.com:2136/live/di3.stream/playlist.m3u8",
@@ -214,25 +227,13 @@
             ]
         },
         {
-            "name": "CGTN",
-            "url": [
-                "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
-                "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
-                "http://live.cgtn.com/1000/prog_index.m3u8",
-                "http://live.cgtn.com/500/prog_index.m3u8",
-                "http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8",
-                "https://livedoc.cgtn.com/1000d/prog_index.m3u8",
-                "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8"
-            ]
-        },
-                {
-            "name": "CHC高清电影",
+            "name": "CHC HD Movie",
             "url": [
                 "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
             ]
         },
         {
-            "name": "江苏卫视",
+            "name": "Jiangsu TV",
             "url": [
                 "http://117.169.120.140:8080/live/hdjiangsustv/.m3u8",
                 "http://118.123.60.17:8112/syhjcms_hls/10000100000000050000000000000075",
@@ -252,7 +253,7 @@
             ]
         },
         {
-            "name": "浙江卫视",
+            "name": "Zhejiang TV",
             "url": [
                 "http://117.148.187.37/PLTV/88888888/224/3221226474/index.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8",
@@ -272,7 +273,7 @@
             ]
         },
         {
-            "name": "东方卫视",
+            "name": "Dongfang TV",
             "url": [
                 "http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8",
                 "http://hls-ott-zhibo.wasu.tv/live/200/index.m3u8",
@@ -290,7 +291,7 @@
             ]
         },
         {
-            "name": "湖南卫视",
+            "name": "Hunan TV",
             "url": [
                 "http://39.134.52.182/wh7f454c46tw1696467131_1868720566/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225981/index.m3u8",
                 "http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8",
@@ -310,7 +311,7 @@
             ]
         },
         {
-            "name": "北京卫视",
+            "name": "Beijing TV",
             "url": [
                 "http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/hdbeijingstv/1.m3u8",
@@ -331,7 +332,7 @@
             ]
         },
         {
-            "name": "安徽卫视",
+            "name": "Anhui TV",
             "url": [
                 "http://125.210.152.10:8060/live/AHWSHD_H265.m3u8",
                 "http://219.153.252.50/PLTV/88888888/224/3221225534/chunklist.m3u8",
@@ -350,7 +351,7 @@
             ]
         },
         {
-            "name": "深圳卫视",
+            "name": "Shenzhen TV",
             "url": [
                 "http://112.50.243.8/PLTV/88888888/224/3221225848/1.m3u8",
                 "http://117.169.120.140:8080/live/hdshenzhenstv/.m3u8",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "天津卫视",
+            "name": "Tianjin TV",
             "url": [
                 "http://112.50.243.8/PLTV/88888888/224/3221225830/1.m3u8",
                 "http://117.169.120.140:8080/live/hdtianjinstv/.m3u8",
@@ -391,7 +392,7 @@
             ]
         },
         {
-            "name": "湖北卫视",
+            "name": "Hubei TV",
             "url": [
                 "http://117.169.120.140:8080/live/hdhubeistv/.m3u8",
                 "http://39.135.32.27:6610/000000001000/1000000001000010355/index.m3u8?i",
@@ -412,7 +413,7 @@
             ]
         },
         {
-            "name": "辽宁卫视",
+            "name": "Liaoning TV",
             "url": [
                 "http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8",
                 "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226049/index.m3u8",
@@ -430,7 +431,7 @@
             ]
         },
         {
-            "name": "吉林卫视",
+            "name": "Jilin TV",
             "url": [
                 "http://117.169.120.140:8080/live/jilinstv/.m3u8",
                 "http://118.123.60.10:8114/syhjcms_hls/?FvSeid=&Fsv_filetype=0&Fsv_ctype=LIVES&Fsv_cid=6449&Fsv_TBt=3072000&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=syhjcms_hls&Pcontent_id=&Fsv_CMSID=syhjcms&Fsv_chan_hls_se_idx=10",
@@ -443,7 +444,7 @@
             ]
         },
         {
-            "name": "黑龙江卫视",
+            "name": "Heilongjiang TV",
             "url": [
                 "http://112.50.243.8/PLTV/88888888/224/3221225862/1.m3u8",
                 "http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8",
@@ -457,7 +458,7 @@
             ]
         },
         {
-            "name": "云南卫视",
+            "name": "Yunnan TV",
             "url": [
                 "http://118.123.60.10:8114/syhjcms_hls/10000100201705020000001000000008?FvSeid=5bf2539394e75947&Fsv_filetype=0&Fsv_ctype=LIVES&Fsv_cid=6641&Fsv_TBt=614400&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=syhjcms_hls&Pcontent_id=10000100201705020000001000000008&Fsv_CMSID=syhjcms&Fsv_chan_hls_se_idx=12",
                 "http://111.40.205.76/PLTV/88888888/224/3221225636/index.m3u8",
@@ -476,7 +477,7 @@
             ]
         },
         {
-            "name": "贵州卫视",
+            "name": "Guizhou TV",
             "url": [
                 "http://111.40.205.87/PLTV/88888888/224/3221225626/index.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/guizhoustv/1.m3u8",
@@ -487,7 +488,7 @@
             ]
         },
         {
-            "name": "东南卫视",
+            "name": "Dongnan TV",
             "url": [
                 "http://117.169.120.140:8080/live/dongnanstv/.m3u8",
                 "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226046/index.m3u8",
@@ -499,7 +500,7 @@
             ]
         },
         {
-            "name": "厦门卫视",
+            "name": "Xiamen TV",
             "url": [
                 "http://183.207.249.11/PLTV/2/224/3221226093/index.m3u8",
                 "http://112.50.243.8/PLTV/88888888/224/3221226781/3.m3u8",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "四川卫视",
+            "name": "Sichuan TV",
             "url": [
                 "http://117.169.120.140:8080/live/sichuanstv/.m3u8",
                 "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8",
@@ -522,7 +523,7 @@
             ]
         },
         {
-            "name": "重庆卫视",
+            "name": "Chongqing TV",
             "url": [
                 "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226005/index.m3u8",
                 "http://111.40.205.87/PLTV/88888888/224/3221225618/index.m3u8",
@@ -535,7 +536,7 @@
             ]
         },
         {
-            "name": "山东卫视",
+            "name": "Shandong TV",
             "url": [
                 "http://112.50.243.8/PLTV/88888888/224/3221225843/1.m3u8",
                 "http://117.169.120.140:8080/live/hdshandongstv/.m3u8",
@@ -556,7 +557,7 @@
             ]
         },
         {
-            "name": "山西卫视",
+            "name": "Shanxi TV",
             "url": [
                 "http://111.40.205.76/PLTV/88888888/224/3221225624/index.m3u8",
                 "http://111.40.205.87/PLTV/88888888/224/3221225624/index.m3u8",
@@ -573,7 +574,7 @@
             ]
         },
         {
-            "name": "广东卫视",
+            "name": "Guangdong TV",
             "url": [
                 "http://112.50.243.8/PLTV/88888888/224/3221225824/1.m3u8",
                 "http://183.207.249.71/PLTV/3/224/3221225592/index.m3u8",
@@ -596,7 +597,7 @@
             ]
         },
         {
-            "name": "广西卫视",
+            "name": "Guangxi TV",
             "url": [
                 "http://111.40.205.87/PLTV/88888888/224/3221225622/index.m3u8",
                 "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=138&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
@@ -610,7 +611,7 @@
             ]
         },
         {
-            "name": "江西卫视",
+            "name": "Jiangxi TV",
             "url": [
                 "http://112.50.243.8/PLTV/88888888/224/3221225868/1.m3u8",
                 "http://117.169.120.140:8080/live/jiangxistv/.m3u8",
@@ -623,7 +624,7 @@
             ]
         },
         {
-            "name": "河北卫视",
+            "name": "Hebei TV",
             "url": [
                 "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226013/index.m3u8",
                 "http://weblive.hebtv.com/live/hbws_bq.m3u8",
@@ -640,7 +641,7 @@
             ]
         },
         {
-            "name": "河南卫视",
+            "name": "Henan TV",
             "url": [
                 "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8",
                 "http://112.17.40.140/PLTV/88888888/224/3221226130/index.m3u8",
@@ -652,7 +653,7 @@
             ]
         },
         {
-            "name": "陕西卫视",
+            "name": "Shannxi TV",
             "url": [
                 "http://111.40.205.76/PLTV/88888888/224/3221225625/index.m3u8",
                 "http://111.40.205.87/PLTV/88888888/224/3221225625/index.m3u8",
@@ -665,7 +666,7 @@
             ]
         },
         {
-            "name": "青海卫视",
+            "name": "Qinghai TV",
             "url": [
                 "http://111.40.205.76/PLTV/88888888/224/3221225628/index.m3u8",
                 "http://111.40.205.87/PLTV/88888888/224/3221225628/index.m3u8",
@@ -675,7 +676,7 @@
             ]
         },
         {
-            "name": "甘肃卫视",
+            "name": "Gansu TV",
             "url": [
                 "http://59.46.18.134:8114/Fsv_otype=1?FvSeid=5bf181c25f226bb2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=34&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1",
                 "http://111.40.205.76/PLTV/88888888/224/3221225633/index.m3u8",
@@ -690,7 +691,7 @@
             ]
         },
         {
-            "name": "宁夏卫视",
+            "name": "Ningxia TV",
             "url": [
                 "http://111.40.205.76/PLTV/88888888/224/3221225632/index.m3u8",
                 "http://111.40.205.87/PLTV/88888888/224/3221225632/index.m3u8",
@@ -706,7 +707,7 @@
             ]
         },
         {
-            "name": "内蒙古卫视",
+            "name": "Neimenggu TV",
             "url": [
                 "http://111.40.205.87/PLTV/88888888/224/3221225634/index.m3u8",
                 "http://117.169.120.140:8080/live/neimenggustv/.m3u8",
@@ -719,7 +720,7 @@
             ]
         },
         {
-            "name": "新疆卫视",
+            "name": "Xinjiang TV",
             "url": [
                 "http://111.40.205.87/PLTV/88888888/224/3221225635/index.m3u8",
                 "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=122&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
@@ -732,7 +733,7 @@
             ]
         },
         {
-            "name": "西藏卫视",
+            "name": "Xizang TV",
             "url": [
                 "http://111.40.205.76/PLTV/88888888/224/3221225638/index.m3u8",
                 "http://111.40.205.87/PLTV/88888888/224/3221225638/index.m3u8",
@@ -747,7 +748,7 @@
             ]
         },
         {
-            "name": "南京新闻综合",
+            "name": "Nanjing News",
             "url": ["http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8"]
         }
     ]
