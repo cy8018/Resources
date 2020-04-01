@@ -47,6 +47,16 @@
             "description": "Talk News 810 KGO. We're talking about the news.",
             "logo": "station_kgo.png",
             "url": [
+                "http://208.80.54.9/KGOAM_SC",
+                "http://208.80.54.9:3690/KGOAM_SC",
+                "http://208.80.54.49/KGOAMAAC_SC",
+                "http://208.80.54.49:3690/KGOAMAAC_SC",
+                "http://208.80.54.70/KGOAM_SC",
+                "http://208.80.54.70:3690/KGOAM_SC",
+                "http://208.80.54.78/KGOAM_SC",
+                "http://208.80.54.78:3690/KGOAM_SC",
+                "http://208.80.54.149/KGOAMAAC_SC",
+                "http://208.80.54.149:3690/KGOAMAAC_SC",
                 "http://69.31.54.135/KGOAMAAC_SC",
                 "http://69.31.54.135:3690/KGOAMAAC_SC",
                 "http://69.31.54.149/KGOAMAAC_SC",
@@ -60,17 +70,7 @@
                 "http://192.173.28.48/KGOAM_SC",
                 "http://192.173.28.48:3690/KGOAM_SC",
                 "http://192.173.28.60/KGOAM_SC",
-                "http://192.173.28.60:3690/KGOAM_SC",
-                "http://208.80.54.9/KGOAM_SC",
-                "http://208.80.54.9:3690/KGOAM_SC",
-                "http://208.80.54.49/KGOAMAAC_SC",
-                "http://208.80.54.49:3690/KGOAMAAC_SC",
-                "http://208.80.54.70/KGOAM_SC",
-                "http://208.80.54.70:3690/KGOAM_SC",
-                "http://208.80.54.78/KGOAM_SC",
-                "http://208.80.54.78:3690/KGOAM_SC",
-                "http://208.80.54.149/KGOAMAAC_SC",
-                "http://208.80.54.149:3690/KGOAMAAC_SC"
+                "http://192.173.28.60:3690/KGOAM_SC"
             ]
         },
         {
@@ -82,10 +82,6 @@
             "description": "Talk Government. The News and Views You Won't Hear Anywhere Else.",
             "logo": "station_ksfo.png",
             "url": [
-                "http://192.173.28.43:3690/KSFOAMAAC_SC",
-                "http://208.80.54.49:3690/KSFOAMAAC_SC",
-                "https://192.173.28.43/KSFOAMAAC_SC",
-                "https://208.80.54.49/KSFOAMAAC_SC",
                 "http://192.173.28.64:3690/KSFOAM_SC",
                 "http://208.80.54.88:3690/KSFOAM_SC",
                 "http://208.80.54.153/KSFOAM_SC",
@@ -107,6 +103,10 @@
                 "http://208.80.54.49/KSFOAMAAC_SC",
                 "http://69.31.54.135:3690/KSFOAMAAC_SC",
                 "http://69.31.54.135/KSFOAMAAC_SC",
+                "http://192.173.28.43:3690/KSFOAMAAC_SC",
+                "http://208.80.54.49:3690/KSFOAMAAC_SC",
+                "https://192.173.28.43/KSFOAMAAC_SC",
+                "https://208.80.54.49/KSFOAMAAC_SC",
                 "http://d.liveatc.net/ksfo_app2",
                 "http://d.liveatc.net/ksfo_gnd",
                 "http://d.liveatc.net/ksfo_twr"
@@ -133,18 +133,18 @@
             "description": "Los Angeles' source for ABC News, local news, traffic.",
             "logo": "station_kabc.png",
             "url": [
-                "http://192.173.28.34/KABCAMAAC_SC",
-                "http://192.173.28.34:3690/KABCAMAAC_SC",
-                "http://192.173.28.48/KABCAMAAC_SC",
-                "http://192.173.28.48:3690/KABCAMAAC_SC",
-                "http://192.173.28.60/KABCAM_SC",
-                "http://192.173.28.60:3690/KABCAM_SC",
                 "http://208.80.54.9/KABCAM_SC",
                 "http://208.80.54.9:3690/KABCAM_SC",
                 "http://208.80.54.70/KABCAM_SC",
                 "http://208.80.54.70:3690/KABCAM_SC",
                 "http://208.80.54.78/KABCAMAAC_SC",
-                "http://208.80.54.78:3690/KABCAMAAC_SC"
+                "http://208.80.54.78:3690/KABCAMAAC_SC",
+                "http://192.173.28.34/KABCAMAAC_SC",
+                "http://192.173.28.34:3690/KABCAMAAC_SC",
+                "http://192.173.28.48/KABCAMAAC_SC",
+                "http://192.173.28.48:3690/KABCAMAAC_SC",
+                "http://192.173.28.60/KABCAM_SC",
+                "http://192.173.28.60:3690/KABCAM_SC"
             ]
         },
         {
@@ -156,7 +156,8 @@
             "description": "Talk 640 LA's top-rated talk station. News (local & national) on the hour and half hour.",
             "logo": "station_kfi.png",
             "url": [
-                "http://c8icy.prod.playlists.ihrhls.com/177_icy"
+                "http://c8icy.prod.playlists.ihrhls.com/177_icy",
+                "http://c8icyelb.prod.playlists.ihrhls.com/177_icy"
             ]
         },
         {
@@ -180,7 +181,8 @@
             "description": "Megatalk 1400 the latest news, financial advice and live and local sports.",
             "logo": "station_kitz.png",
             "url": [
-                "http://crystalin.surfernetwork.com:8000/KITZ_MP3"
+                "http://crystalin.surfernetwork.com:8000/KITZ_MP3",
+                "http://crystalout.surfernetwork.com:8001/KITZ_MP3"
             ]
         },
         {
@@ -204,7 +206,12 @@
             "description": "Western Washington's new FM choice for breaking news and stimulating talk.",
             "logo": "station_kiro.png",
             "url": [
-                "http://69.31.54.131:3690/KIROFM_SC"
+                "https://208.80.54.154/KIROAM_SC",
+                "https://69.31.54.141/KIROAM_SC",
+                "https://208.80.54.33/KIROAM_SC",
+                "https://192.173.28.41/KIROAMAAC_SC",
+                "https://208.80.54.29/KIROAMAAC_SC",
+                "https://192.173.28.54/KIROAMAAC_SC"
             ]
         },
         {
@@ -240,7 +247,17 @@
             "description": "Talk News 102.7 KSL. Utah News & Talk Station",
             "logo": "station_ksl.png",
             "url": [
-                "http://208.80.54.67/KSLAM_SC"
+                "http://69.31.54.137:3690/KSLAM_SC",
+                "http://208.80.54.67/KSLAM_SC",
+                "http://208.80.54.57:3690/KSLAM_SC",
+                "http://69.31.54.137/KSLAM_SC",
+                "http://208.80.54.57/KSLAM_SC",
+                "http://208.80.54.67:3690/KSLAM_SC",
+                "https://208.80.54.27/KSLAMAAC_SC",
+                "http://69.31.54.136/KSLAMAAC_SC",
+                "http://208.80.54.46/KSLAMAAC_SC",
+                "http://208.80.54.46:3690/KSLAMAAC_SC",
+                "http://69.31.54.136:3690/KSLAMAAC_SC"
             ]
         },
         {
@@ -252,7 +269,10 @@
             "description": "KWMU 90.7 St. Louis Public Radio News that matters.",
             "logo": "station_kwmu.png",
             "url": [
-                "http://kwmu1-ice.streamguys1.com/kwmu1-256k.aac"
+                "http://kwmu1-ice.streamguys1.com/kwmu1-256k.aac",
+                "http://kwmu1-ice.streamguys1.com/kwmu1-128k.aac",
+                "http://kwmu1-ice.streamguys1.com/kwmu1-64k.aac",
+                "http://kwmu1-ice.streamguys1.com/kwmu-itunes.aac"
             ]
         },
         {
@@ -288,7 +308,10 @@
             "description": "News Talk Radio WABC. Where New York Comes To Talk.",
             "logo": "station_wabc.png",
             "url": [
-                "http://listen.radionomy.com/WABCTribute"
+                "http://38.140.143.166/WABCAMAAC_SC",
+                "http://38.140.143.166/WABCAM_SC",
+                "http://38.140.143.166:3690/WABCAM_SC",
+                "http://38.140.143.166:3690/WABCAMAAC_SC"
             ]
         },
         {
@@ -300,6 +323,21 @@
             "description": "Bloomberg Radio New York, 24/7 coverage of business and economy.",
             "logo": "station_wbbr.png",
             "url": [
+                "http://bbr24.sonixcast.com:8080/CSNX-8074",
+                "http://208.92.55.41:3690/WBBRAMAAC_SC",
+                "http://208.80.52.35:3690/WBBRAMAAC_SC",
+                "http://208.80.52.35/WBBRAMAAC_SC",
+                "http://208.92.55.41/WBBRAMAAC_SC",
+                "http://208.92.55.45/WBBRAMAAC_SC",
+                "http://208.80.52.41/WBBRAMAAC_SC",
+                "http://208.80.52.143:3690/WBBRAMAAC_SC",
+                "http://63.243.143.152/WBBRAMAAC_SC",
+                "http://208.80.52.89:3690/WBBRAMAAC_SC",
+                "http://208.80.52.41:3690/WBBRAMAAC_SC",
+                "http://208.92.55.45:3690/WBBRAMAAC_SC",
+                "http://208.80.52.143/WBBRAMAAC_SC",
+                "http://208.80.52.89/WBBRAMAAC_SC",
+                "http://63.243.143.152:3690/WBBRAMAAC_SC",
                 "http://c11icy.prod.playlists.ihrhls.com/6286_icy"
             ]
         },
@@ -312,7 +350,50 @@
             "description": "Talk News 93.9 AM 820 WNYC. New York Public Radio",
             "logo": "station_wnyc.png",
             "url": [
-                "http://am820.wnyc.org/wnycam-tunein.aac"
+                "http://opera-stream.wqxr.org/wnycfm-tunein.aac",
+                "http://iheart.wnyc.org/wnycfm-tunein.aac",
+                "http://am820.wnyc.org/wnycfm-tunein.aac",
+                "http://njpr.wnyc.org/wnycfm-tunein.aac",
+                "http://fm939.wnyc.org/wnycfm-tunein.aac",
+                "http://am820.wnyc.org/wnycfm-app",
+                "http://njpr.wnyc.org/wnycfm-app",
+                "http://opera-stream.wqxr.org/wnycfm",
+                "http://am820.wnyc.org/wnycfm-tunein",
+                "http://njpr.wnyc.org/wnycfm-tunein",
+                "http://njpr.wnyc.org/wnycfm",
+                "http://iheart.wnyc.org/wnycfm-app",
+                "http://opera-stream.wqxr.org/wnycfm-mobile",
+                "http://fm939.wnyc.org/wnycfm-mobile",
+                "http://iheart.wnyc.org/wnycfm-mobile",
+                "http://opera-stream.wqxr.org/wnycfm-app",
+                "http://fm939.wnyc.org/wnycfm-app",
+                "http://opera-stream.wqxr.org/wnycfm-tunein",
+                "http://iheart.wnyc.org/wnycfm",
+                "http://fm939.wnyc.org/wnycfm-tunein",
+                "http://iheart.wnyc.org/wnycfm-tunein",
+                "http://am820.wnyc.org/wnycfm-mobile",
+                "http://njpr.wnyc.org/wnycfm-mobile",
+                "http://fm939.wnyc.org/wnycfm",
+                "http://opera-stream.wqxr.org/wnycfm-mobile.aac",
+                "http://fm939.wnyc.org/wnycfm.aac",
+                "http://njpr.wnyc.org/wnycfm.aac",
+                "http://njpr.wnyc.org/wnycfm-iheart.aac",
+                "http://opera-stream.wqxr.org/wnycfm-app.aac",
+                "http://njpr.wnyc.org/wnycfm-mobile.aac",
+                "http://fm939.wnyc.org/wnycfm-app.aac",
+                "http://am820.wnyc.org/wnycfm.aac",
+                "http://njpr.wnyc.org/wnycfm-app.aac",
+                "http://iheart.wnyc.org/wnycfm.aac",
+                "http://iheart.wnyc.org/wnycfm-mobile.aac",
+                "http://am820.wnyc.org/wnycfm-app.aac",
+                "http://iheart.wnyc.org/wnycfm-iheart.aac",
+                "http://fm939.wnyc.org/wnycfm-iheart.aac",
+                "http://opera-stream.wqxr.org/wnycfm-iheart.aac",
+                "http://iheart.wnyc.org/wnycfm-app.aac",
+                "http://opera-stream.wqxr.org/wnycfm.aac",
+                "http://fm939.wnyc.org/wnycfm-mobile.aac",
+                "http://am820.wnyc.org/wnycfm-mobile.aac",
+                "http://am820.wnyc.org/wnycfm-iheart.aac"
             ]
         },
         {
@@ -336,6 +417,17 @@
             "description": "Where Washington Comes To Talk. Stimulating Talk and Breaking News.",
             "logo": "station_wmal.png",
             "url": [
+                "http://208.80.52.59/WMALFMAAC_SC",
+                "http://208.80.52.59:3690/WMALFMAAC_SC",
+                "http://208.92.55.132:3690/WMALFMAAC_SC",
+                "http://63.243.143.151:3690/WMALFMAAC_SC",
+                "http://208.92.54.17:3690/WMALFM_SC",
+                "http://208.92.55.135/WMALFM_SC",
+                "http://208.92.54.17/WMALFM_SC",
+                "http://208.92.55.135:3690/WMALFM_SC",
+                "http://63.243.143.151/WMALFMAAC_SC",
+                "http://208.80.52.145:3690/WMALFMAAC_SC",
+                "http://208.92.55.132/WMALFMAAC_SC",
                 "http://208.80.52.145/WMALFMAAC_SC"
             ]
         },
@@ -348,7 +440,18 @@
             "description": "Maryland's leading source for thought-provoking discussions, news, weather and sports.",
             "logo": "station_wbal.png",
             "url": [
-                "http://208.92.52.36/WBALAM_SC"
+                "http://208.80.52.64/WBALAM_SC",
+                "http://38.142.56.142:3690/WBALAM_SC",
+                "http://208.92.52.36:3690/WBALAM_SC",
+                "http://38.142.56.142/WBALAM_SC",
+                "http://208.80.52.64:3690/WBALAM_SC",
+                "http://208.92.52.36/WBALAM_SC",
+                "http://38.142.56.142:3690/WBALAMAAC_SC",
+                "http://208.92.52.36:3690/WBALAMAAC_SC",
+                "http://38.142.56.142/WBALAMAAC_SC",
+                "http://208.80.52.64:3690/WBALAMAAC_SC",
+                "http://208.80.52.64/WBALAMAAC_SC",
+                "http://208.92.52.36/WBALAMAAC_SC"
             ]
         },
         {
@@ -360,7 +463,14 @@
             "description": "Public News 90.1 WABE Where ATL meets NPR 24/7 News from NPR and BBC World Service.",
             "logo": "station_wabe.png",
             "url": [
-                "http://pba-ice.streamguys.org/wabe.mp3"
+                "http://pba-ice.streamguys.org/nopre-classical.mp3",
+                "http://pba-ice.streamguys.org/classical",
+                "http://pba-ice.streamguys.org/classical.aac",
+                "https://pba-ice.streamguys.org/wabe.aac",
+                "http://pba-ice.streamguys.org/wabe",
+                "http://pba-ice.streamguys.org/wabe.mp3",
+                "http://pba-ice.streamguys.org/nopre-wabe.mp3",
+                "http://pba-ice.streamguys.org/news"
             ]
         },
         {
@@ -372,7 +482,8 @@
             "description": "Talk News FM 107.9 1030 WBZ. The newswatch never stops.",
             "logo": "station_wbz.png",
             "url": [
-                "http://c14icy.prod.playlists.ihrhls.com/7729_icy"
+                "http://c14icy.prod.playlists.ihrhls.com/7729_icy",
+                "http://c14.prod.playlists.ihrhls.com/7729/playlist.m3u8"
             ]
         },
         {
@@ -444,7 +555,8 @@
             "description": "News Talk 980 CKNW Vancouver.",
             "logo": "station_cknw.png",
             "url": [
-                "http://live.leanstream.co/CKNWAM"
+                "http://live.leanstream.co/CKNWAM",
+                "http://live.leanstream.co/CKNWAM-MP3"
             ]
         },
         {
@@ -468,7 +580,8 @@
             "description": "AM730 All Traffic, All The Time. Vancouver's Traffic Station.",
             "logo": "station_chmj.png",
             "url": [
-                "http://live.leanstream.co/CHMJAM"
+                "http://live.leanstream.co/CHMJAM",
+                "http://live.leanstream.co/CHMJAM-MP3"
             ]
         },
         {
@@ -492,7 +605,24 @@
             "description": "Newstalk 1010 Toronto's breaking news, traffic, and weather. Breaking News and Stimulating Talk.",
             "logo": "station_cfrb.png",
             "url": [
-                "http://208.92.52.36/CFRBAMAAC_SC"
+                "http://208.80.52.64/CFRBAMAAC_SC",
+                "http://208.92.55.45/CFRBAM_SC",
+                "http://208.92.55.133:3690/CFRBAM_SC",
+                "http://208.80.52.113/CFRBAM_SC",
+                "http://208.80.52.35:3690/CFRBAM_SC",
+                "http://208.92.55.133/CFRBAM_SC",
+                "http://208.92.55.45:3690/CFRBAM_SC",
+                "http://208.80.52.35/CFRBAM_SC",
+                "http://208.80.52.113:3690/CFRBAM_SC",
+                "http://63.243.143.150:3690/CFRBAMAAC_SC",
+                "http://38.142.56.142:3690/CFRBAMAAC_SC",
+                "http://38.142.56.142/CFRBAMAAC_SC",
+                "http://208.80.52.142/CFRBAMAAC_SC",
+                "http://208.80.52.64:3690/CFRBAMAAC_SC",
+                "http://63.243.143.150/CFRBAMAAC_SC",
+                "http://208.92.52.36/CFRBAMAAC_SC",
+                "http://208.92.52.36:3690/CFRBAMAAC_SC",
+                "http://208.80.52.142:3690/CFRBAMAAC_SC"
             ]
         },
         {
@@ -504,7 +634,15 @@
             "description": "580 CFRA Ottawa's Home for Breaking News.",
             "logo": "station_cfra.png",
             "url": [
-                "http://208.80.52.131/CFRAAM_SC"
+                "http://38.142.56.139:3690/CFRAAM_SC",
+                "http://208.80.52.131:3690/CFRAAM_SC",
+                "http://38.142.56.139/CFRAAM_SC",
+                "https://208.80.52.56/CFRAAM_SC",
+                "http://208.80.52.131/CFRAAM_SC",
+                "http://208.80.52.11/CFRAAMAAC_SC",
+                "http://208.92.55.42:3690/CFRAAMAAC_SC",
+                "http://208.92.55.42/CFRAAMAAC_SC",
+                "http://208.80.52.11:3690/CFRAAMAAC_SC"
             ]
         },
         {
@@ -528,7 +666,21 @@
             "description": "FM 107.3 AM 800 News and views from Quebec's leading CJAD. When Montreal needs to talk.",
             "logo": "station_cjad.png",
             "url": [
-                "http://208.92.55.37:3690/CJADAM_SC"
+                "http://208.92.52.42:3690/CJADAM_SC",
+                "http://208.92.55.138/CJADAM_SC",
+                "http://208.92.52.42/CJADAM_SC",
+                "http://208.92.55.37:3690/CJADAM_SC",
+                "https://208.92.54.4/CJADAM_SC",
+                "http://208.92.55.138:3690/CJADAM_SC",
+                "http://208.92.55.37/CJADAM_SC",
+                "http://208.92.55.132:3690/CJADAMAAC_SC",
+                "http://208.80.52.59/CJADAMAAC_SC",
+                "http://208.92.55.135/CJADAMAAC_SC",
+                "http://208.92.55.135:3690/CJADAMAAC_SC",
+                "http://208.92.54.17:3690/CJADAMAAC_SC",
+                "http://208.92.54.17/CJADAMAAC_SC",
+                "http://208.80.52.59:3690/CJADAMAAC_SC",
+                "http://208.92.55.132/CJADAMAAC_SC"
             ]
         },
         {
@@ -540,7 +692,16 @@
             "description": "AM 1150 News Talk Sports The Okanagan's Information Leader.",
             "logo": "station_ckfr.png",
             "url": [
-                "http://208.80.54.245/CKFRAMAAC_SC"
+                "http://208.80.54.245:3690/CKFRAMAAC_SC",
+                "http://192.173.28.36:3690/CKFRAMAAC_SC",
+                "http://192.173.28.222/CKFRAM_SC",
+                "http://69.31.54.132:3690/CKFRAM_SC",
+                "http://208.80.54.47:3690/CKFRAM_SC",
+                "http://69.31.54.132/CKFRAM_SC",
+                "http://192.173.28.222:3690/CKFRAM_SC",
+                "http://208.80.54.47/CKFRAM_SC",
+                "http://192.173.28.36/CKFRAMAAC_SC",
+                "http://208.80.54.241/CKFRAMAAC_SC"
             ]
         },
         {
@@ -552,7 +713,8 @@
             "description": "Global News Radio 770 CHQR. Calgary's Breaking News and Conversation Station.",
             "logo": "station_chqr.png",
             "url": [
-                "http://live.leanstream.co/CHQRAM"
+                "http://live.leanstream.co/CHQRAM",
+                "http://live.leanstream.co/CHQRAM-MP3"
             ]
         },
         {
@@ -564,7 +726,8 @@
             "description": "630 CHED Edmonton's breaking news and conversation station. Alberta's Information Superstation.",
             "logo": "station_ched.png",
             "url": [
-                "http://live.leanstream.co/CHEDAM"
+                "http://live.leanstream.co/CHEDAM",
+                "http://live.leanstream.co/CHEDAM-MP3"
             ]
         },
         {
@@ -576,7 +739,8 @@
             "description": "Global News Radio 680 CJOB. Winnipeg's News and Information Leader. Manitoba's Information Superstation.",
             "logo": "station_cjob.png",
             "url": [
-                "http://live.leanstream.co/CJOBAM"
+                "http://live.leanstream.co/CJOBAM",
+                "http://live.leanstream.co/CJOBAM-MP3"
             ]
         },
         {
@@ -600,7 +764,8 @@
             "description": "Global News Radio 900 CHML. Hamilton's News Talk Leader.",
             "logo": "station_chml.png",
             "url": [
-                "http://live.leanstream.co/CHMLAM"
+                "http://live.leanstream.co/CHMLAM",
+                "http://live.leanstream.co/CHMLAM-MP3"
             ]
         },
         {
@@ -612,7 +777,9 @@
             "description": "News Talk 95.7 CJNI.",
             "logo": "station_cjni.png",
             "url": [
-                "http://rogers-hls.leanstream.co:8000/rogers/hal957.stream/48k/playlist.m3u8"
+                "http://rogers-hls.leanstream.co:8000/rogers/hal957.stream/48k/playlist.m3u8",
+                "http://radio_cjni-lh.akamaihd.net/i/HAL957_1@188408/master.m3u8",
+                "http://radio_cjni-lh.akamaihd.net/i/HAL957_1@188408/index_48_a-p.m3u8"
             ]
         },
         {
