@@ -395,7 +395,9 @@
             "style": "News",
             "description": "Chicago’s Very Own WGN Radio. The Voice of Chicago.",
             "logo": "station_wgn.png",
-            "url": "http://65.19.131.141/wgnam-wgnamaac-ibc2"
+            "url": [
+                "http://65.19.131.141/wgnam-wgnamaac-ibc2"
+            ]
         },
         {
             "name": "WTAM",
