@@ -22,7 +22,9 @@
             "style": "News",
             "description": "ABC News Radio Know the story. Australia's only continuous news station.",
             "logo": "station_abc_au.png",
-            "url": "http://live-radio02.mediahubaustralia.com/PBW/mp3"
+            "url": [
+				"http://live-radio02.mediahubaustralia.com/PBW/mp3"
+			]
         },
         {
             "name": "RNZ National",
@@ -32,7 +34,9 @@
             "style": "News",
             "description": "New Zealand National service of New Zealand's National Broadcaster.",
             "logo": "station_rnz.png",
-            "url": "http://radionz-ice.streamguys.com/national.mp3"
+            "url": [
+				"http://radionz-ice.streamguys.com/national.mp3"
+			]
         },
         {
             "name": "KGO",
@@ -149,7 +153,9 @@
             "style": "News",
             "description": "Talk 640 LA's top-rated talk station. News (local & national) on the hour and half hour.",
             "logo": "station_kfi.png",
-            "url": "http://c8icy.prod.playlists.ihrhls.com/177_icy"
+            "url": [
+				"http://c8icy.prod.playlists.ihrhls.com/177_icy"
+			]
         },
         {
             "name": "KTLA",
@@ -159,7 +165,9 @@
             "style": "News",
             "description": "#1 in Southern California Audio feed of KTLA television news, Channel 5 in Los Angeles",
             "logo": "station_ktla.png",
-            "url": "http://c11icy.prod.playlists.ihrhls.com/6927_icy"
+            "url": [
+				"http://c11icy.prod.playlists.ihrhls.com/6927_icy"
+			]
         },
         {
             "name": "KITZ",
@@ -169,7 +177,9 @@
             "style": "News",
             "description": "Megatalk 1400 the latest news, financial advice and live and local sports.",
             "logo": "station_kitz.png",
-            "url": "http://crystalin.surfernetwork.com:8000/KITZ_MP3"
+            "url": [
+				"http://crystalin.surfernetwork.com:8000/KITZ_MP3"
+			]
         },
         {
             "name": "KUOW",
@@ -179,7 +189,9 @@
             "style": "News",
             "description": "Seattle's Public News Talk.",
             "logo": "station_kuow.png",
-            "url": "http://kuow.streamguys1.com/kuow1-lo.mp3"
+            "url": [
+				"http://kuow.streamguys1.com/kuow1-lo.mp3"
+			]
         },
         {
             "name": "KIRO",
@@ -189,7 +201,9 @@
             "style": "News",
             "description": "Western Washington's new FM choice for breaking news and stimulating talk.",
             "logo": "station_kiro.png",
-            "url": "http://69.31.54.131:3690/KIROFM_SC"
+            "url": [
+				"http://69.31.54.131:3690/KIROFM_SC"
+			]
         },
         {
             "name": "KEX",
@@ -199,7 +213,9 @@
             "style": "News",
             "description": "NewsRadio 1190 KEX Portland's 24-Hour News, Talk, Traffic and Weather Station",
             "logo": "station_kex.png",
-            "url": "http://c13icy.prod.playlists.ihrhls.com/1949_icy"
+            "url": [
+				"http://c13icy.prod.playlists.ihrhls.com/1949_icy"
+			]
         },
         {
             "name": "KHOW",
@@ -209,7 +225,9 @@
             "style": "News",
             "description": "Talk News 630 Talk Radio. KHOW Denver's Talk Station Denver's Talk Station.",
             "logo": "station_khow.png",
-            "url": "http://c10icy.prod.playlists.ihrhls.com/377_icy"
+            "url": [
+				"http://c10icy.prod.playlists.ihrhls.com/377_icy"
+			]
         },
         {
             "name": "KSL",
@@ -219,7 +237,9 @@
             "style": "News",
             "description": "Talk News 102.7 KSL. Utah News & Talk Station",
             "logo": "station_ksl.png",
-            "url": "http://208.80.54.67/KSLAM_SC"
+            "url": [
+				"http://208.80.54.67/KSLAM_SC"
+			]
         },
         {
             "name": "KWMU",
@@ -229,7 +249,9 @@
             "style": "News",
             "description": "KWMU 90.7 St. Louis Public Radio News that matters.",
             "logo": "station_kwmu.png",
-            "url": "http://kwmu1-ice.streamguys1.com/kwmu1-256k.aac"
+            "url": [
+				"http://kwmu1-ice.streamguys1.com/kwmu1-256k.aac"
+			]
         },
         {
             "name": "KFXR",
@@ -239,7 +261,9 @@
             "style": "News",
             "description": "Talk 1190 Dallas-Ft. Worth's News Talk",
             "logo": "station_kfxr.png",
-            "url": "http://c4icy.prod.playlists.ihrhls.com/4276_icy"
+            "url": [
+				"http://c4icy.prod.playlists.ihrhls.com/4276_icy"
+			]
         },
         {
             "name": "KPRC",
@@ -249,7 +273,9 @@
             "style": "News",
             "description": "Talk News 950 FOX News/talk station",
             "logo": "station_kprc.png",
-            "url": "http://c1icy.prod.playlists.ihrhls.com/2277_icy"
+            "url": [
+				"http://c1icy.prod.playlists.ihrhls.com/2277_icy"
+			]
         },
         {
             "name": "WABC",
@@ -259,7 +285,9 @@
             "style": "News",
             "description": "News Talk Radio WABC. Where New York Comes To Talk.",
             "logo": "station_wabc.png",
-            "url": "http://listen.radionomy.com/WABCTribute"
+            "url": [
+				"http://listen.radionomy.com/WABCTribute"
+			]
         },
         {
             "name": "WBBR",
@@ -269,7 +297,9 @@
             "style": "News",
             "description": "Bloomberg Radio New York, 24/7 coverage of business and economy.",
             "logo": "station_wbbr.png",
-            "url": "http://c11icy.prod.playlists.ihrhls.com/6286_icy"
+            "url": [
+				"http://c11icy.prod.playlists.ihrhls.com/6286_icy"
+			]
         },
         {
             "name": "WNYC",
@@ -279,7 +309,9 @@
             "style": "News",
             "description": "Talk News 93.9 AM 820 WNYC. New York Public Radio",
             "logo": "station_wnyc.png",
-            "url": "http://am820.wnyc.org/wnycam-tunein.aac"
+            "url": [
+				"http://am820.wnyc.org/wnycam-tunein.aac"
+			]
         },
         {
             "name": "WOR",
@@ -289,7 +321,9 @@
             "style": "News",
             "description": "Talk News 104.3 WOR 710. The Voice of New York",
             "logo": "station_wor.png",
-            "url": "http://c5icy.prod.playlists.ihrhls.com/5874_icy"
+            "url": [
+				"http://c5icy.prod.playlists.ihrhls.com/5874_icy"
+			]
         },
         {
             "name": "WMAL",
@@ -299,7 +333,9 @@
             "style": "News",
             "description": "Where Washington Comes To Talk. Stimulating Talk and Breaking News.",
             "logo": "station_wmal.png",
-            "url": "http://208.80.52.145/WMALFMAAC_SC"
+            "url": [
+				"http://208.80.52.145/WMALFMAAC_SC"
+			]
         },
         {
             "name": "WBAL",
@@ -309,7 +345,9 @@
             "style": "News",
             "description": "Maryland's leading source for thought-provoking discussions, news, weather and sports.",
             "logo": "station_wbal.png",
-            "url": "http://208.92.52.36/WBALAM_SC"
+            "url": [
+				"http://208.92.52.36/WBALAM_SC"
+			]
         },
         {
             "name": "WABE",
@@ -319,7 +357,9 @@
             "style": "News",
             "description": "Public News 90.1 WABE Where ATL meets NPR 24/7 News from NPR and BBC World Service.",
             "logo": "station_wabe.png",
-            "url": "http://pba-ice.streamguys.org/wabe.mp3"
+            "url": [
+				"http://pba-ice.streamguys.org/wabe.mp3"
+			]
         },
         {
             "name": "WBZ",
@@ -329,7 +369,9 @@
             "style": "News",
             "description": "Talk News FM 107.9 1030 WBZ. The newswatch never stops.",
             "logo": "station_wbz.png",
-            "url": "http://c14icy.prod.playlists.ihrhls.com/7729_icy"
+            "url": [
+				"http://c14icy.prod.playlists.ihrhls.com/7729_icy"
+			]
         },
         {
             "name": "WRKO",
@@ -339,7 +381,9 @@
             "style": "News",
             "description": "WRKO AM680. The Voice of Boston.",
             "logo": "station_wrko.png",
-            "url": "http://c14icy.prod.playlists.ihrhls.com/7750_icy"
+            "url": [
+				"http://c14icy.prod.playlists.ihrhls.com/7750_icy"
+			]
         },
         {
             "name": "WGN",
@@ -359,7 +403,9 @@
             "style": "News",
             "description": "Talk 1100 Newsradio WTAM. Cleveland's Newsradio.",
             "logo": "station_wtam.png",
-            "url": "http://c10icy.prod.playlists.ihrhls.com/1749_icy"
+            "url": [
+				"http://c10icy.prod.playlists.ihrhls.com/1749_icy"
+			]
         },
         {
             "name": "WKSU",
@@ -369,7 +415,9 @@
             "style": "News",
             "description": "FM 89.1 89.7 90.7 89.3 WKSU News BBC World Service",
             "logo": "station_wksu.png",
-            "url": "http://66.225.205.169/wksu4.mp3.128"
+            "url": [
+				"http://66.225.205.169/wksu4.mp3.128"
+			]
         },
         {
             "name": "WIOD",
@@ -379,7 +427,9 @@
             "style": "News",
             "description": "Talk News 105.9 610 Miami's News, Traffic and Weather Station 24/7 Talk Radio for South Florida.",
             "logo": "station_wiod.png",
-            "url": "http://c7icy.prod.playlists.ihrhls.com/569_icy"
+            "url": [
+				"http://c7icy.prod.playlists.ihrhls.com/569_icy"
+			]
         },
         {
             "name": "CKNW",
@@ -389,7 +439,9 @@
             "style": "News",
             "description": "News Talk 980 CKNW Vancouver.",
             "logo": "station_cknw.png",
-            "url": "http://live.leanstream.co/CKNWAM"
+            "url": [
+				"http://live.leanstream.co/CKNWAM"
+			]
         },
         {
             "name": "CKWX",
@@ -399,7 +451,9 @@
             "style": "News",
             "description": "News 1130 Vancouver's Breaking News, Traffic and Weather.",
             "logo": "station_ckwx.png",
-            "url": "http://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8"
+            "url": [
+				"http://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8"
+			]
         },
         {
             "name": "CHMJ",
@@ -409,7 +463,9 @@
             "style": "News",
             "description": "AM730 All Traffic, All The Time. Vancouver's Traffic Station.",
             "logo": "station_chmj.png",
-            "url": "http://live.leanstream.co/CHMJAM"
+            "url": [
+				"http://live.leanstream.co/CHMJAM"
+			]
         },
         {
             "name": "CFTR",
@@ -419,7 +475,9 @@
             "style": "News",
             "description": "680 NEWS All News Radio Toronto. #1 for Breaking News, Traffic and Weather.",
             "logo": "station_cftr.png",
-            "url": "http://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8"
+            "url": [
+				"http://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8"
+			]
         },
         {
             "name": "CFRB",
@@ -429,7 +487,9 @@
             "style": "News",
             "description": "Newstalk 1010 Toronto's breaking news, traffic, and weather. Breaking News and Stimulating Talk.",
             "logo": "station_cfrb.png",
-            "url": "http://208.92.52.36/CFRBAMAAC_SC"
+            "url": [
+				"http://208.92.52.36/CFRBAMAAC_SC"
+			]
         },
         {
             "name": "CFRA",
@@ -439,7 +499,9 @@
             "style": "News",
             "description": "580 CFRA Ottawa's Home for Breaking News.",
             "logo": "station_cfra.png",
-            "url": "http://208.80.52.131/CFRAAM_SC"
+            "url": [
+				"http://208.80.52.131/CFRAAM_SC"
+			]
         },
         {
             "name": "CIWW",
@@ -449,7 +511,9 @@
             "style": "News",
             "description": "News Radio 1310. Ottawa's News.",
             "logo": "station_ciww.png",
-            "url": "http://rogers-hls.leanstream.co/rogers/ott1310.stream/playlist.m3u8"
+            "url": [
+				"http://rogers-hls.leanstream.co/rogers/ott1310.stream/playlist.m3u8"
+			]
         },
         {
             "name": "CJAD",
@@ -459,7 +523,9 @@
             "style": "News",
             "description": "FM 107.3 AM 800 News and views from Quebec's leading CJAD. When Montreal needs to talk.",
             "logo": "station_cjad.png",
-            "url": "http://208.92.55.37:3690/CJADAM_SC"
+            "url": [
+				"http://208.92.55.37:3690/CJADAM_SC"
+			]
         },
         {
             "name": "CKFR",
@@ -469,7 +535,9 @@
             "style": "News",
             "description": "AM 1150 News Talk Sports The Okanagan's Information Leader.",
             "logo": "station_ckfr.png",
-            "url": "http://208.80.54.245/CKFRAMAAC_SC"
+            "url": [
+				"http://208.80.54.245/CKFRAMAAC_SC"
+			]
         },
         {
             "name": "CHQR",
@@ -479,7 +547,9 @@
             "style": "News",
             "description": "Global News Radio 770 CHQR. Calgary's Breaking News and Conversation Station.",
             "logo": "station_chqr.png",
-            "url": "http://live.leanstream.co/CHQRAM"
+            "url": [
+				"http://live.leanstream.co/CHQRAM"
+			]
         },
         {
             "name": "CHED",
@@ -489,7 +559,9 @@
             "style": "News",
             "description": "630 CHED Edmonton's breaking news and conversation station. Alberta's Information Superstation.",
             "logo": "station_ched.png",
-            "url": "http://live.leanstream.co/CHEDAM"
+            "url": [
+				"http://live.leanstream.co/CHEDAM"
+			]
         },
         {
             "name": "CJOB",
@@ -499,7 +571,9 @@
             "style": "News",
             "description": "Global News Radio 680 CJOB. Winnipeg's News and Information Leader. Manitoba's Information Superstation.",
             "logo": "station_cjob.png",
-            "url": "http://live.leanstream.co/CJOBAM"
+            "url": [
+				"http://live.leanstream.co/CJOBAM"
+			]
         },
         {
             "name": "CKOM",
@@ -509,7 +583,9 @@
             "style": "News",
             "description": "News Talk 650 CKOM. Saskatoon's News and Conversation Station.",
             "logo": "station_ckom.png",
-            "url": "http://rawlco.leanstream.co/CKOMAM"
+            "url": [
+				"http://rawlco.leanstream.co/CKOMAM"
+			]
         },
         {
             "name": "CHML",
@@ -519,7 +595,9 @@
             "style": "News",
             "description": "Global News Radio 900 CHML. Hamilton's News Talk Leader.",
             "logo": "station_chml.png",
-            "url": "http://live.leanstream.co/CHMLAM"
+            "url": [
+				"http://live.leanstream.co/CHMLAM"
+			]
         },
         {
             "name": "CJNI",
@@ -529,7 +607,9 @@
             "style": "News",
             "description": "News Talk 95.7 CJNI.",
             "logo": "station_cjni.png",
-            "url": "http://rogers-hls.leanstream.co:8000/rogers/hal957.stream/48k/playlist.m3u8"
+            "url": [
+				"http://rogers-hls.leanstream.co:8000/rogers/hal957.stream/48k/playlist.m3u8"
+			]
         },
         {
             "name": "CBC Radio 1",
@@ -539,7 +619,9 @@
             "style": "News",
             "description": "Variety 99.1 CBC Radio 1 - Ontario/Toronto.",
             "logo": "station_cbc1_toronto.png",
-            "url": "http://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
+            "url": [
+				"http://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
+			]
         },
         {
             "name": "CBC Radio 1",
@@ -549,7 +631,9 @@
             "style": "News",
             "description": "CBC Radio One Halifax.",
             "logo": "station_cbc1_halifax.png",
-            "url": "http://cbc_r1_hfx.akacast.akamaistream.net/7/981/451661/v1/rc.akacast.akamaistream.net/cbc_r1_hfx"
+            "url": [
+				"http://cbc_r1_hfx.akacast.akamaistream.net/7/981/451661/v1/rc.akacast.akamaistream.net/cbc_r1_hfx"
+				]
         },
         {
             "name": "CBC Radio 1",
@@ -559,7 +643,9 @@
             "style": "News",
             "description": "Variety 88.1 CBC Radio One - British Columbia/Vancouver.",
             "logo": "station_cbc1_vancouver.png",
-            "url": "http://liveradio.cbc.ca/i/CBCR1_VCR@314572/index_48_a-p.m3u8"
+            "url": [
+				"http://liveradio.cbc.ca/i/CBCR1_VCR@314572/index_48_a-p.m3u8"
+			]
         },
         {
             "name": "CBC Radio 1",
@@ -569,7 +655,9 @@
             "style": "News",
             "description": "CBC Radio One Kelowna.",
             "logo": "station_cbc1_kelowna.png",
-            "url": "http://cbcliveradio-lh.akamaihd.net/i/CBCR1_KEL@386538/master.m3u8"
+            "url": [
+				"http://cbcliveradio-lh.akamaihd.net/i/CBCR1_KEL@386538/master.m3u8"
+			]
         }
     ]
 }
