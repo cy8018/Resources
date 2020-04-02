@@ -166,7 +166,7 @@
             "province": "CA",
             "city": "Los Angeles",
             "style": "News",
-            "description": "#1 in Southern California Audio feed of KTLA television news, Channel 5 in Los Angeles",
+            "description": "#1 in Southern California Audio feed of KTLA television news, Channel 5 in Los Angeles.",
             "logo": "station_ktla.png",
             "url": [
                 "http://c11icy.prod.playlists.ihrhls.com/6927_icy"
@@ -220,7 +220,7 @@
             "province": "OR",
             "city": "Portland",
             "style": "News",
-            "description": "NewsRadio 1190 KEX Portland's 24-Hour News, Talk, Traffic and Weather Station",
+            "description": "NewsRadio 1190 KEX Portland's 24-Hour News, Talk, Traffic and Weather Station.",
             "logo": "station_kex.png",
             "url": [
                 "http://c13icy.prod.playlists.ihrhls.com/1949_icy"
@@ -232,7 +232,7 @@
             "province": "CO",
             "city": "Denver",
             "style": "News",
-            "description": "Talk News 630 Talk Radio. KHOW Denver's Talk Station Denver's Talk Station.",
+            "description": "Talk News 630 Talk Radio. KHOW Denver's Talk Station.",
             "logo": "station_khow.png",
             "url": [
                 "http://c10icy.prod.playlists.ihrhls.com/377_icy"
@@ -244,7 +244,7 @@
             "province": "UT",
             "city": "Salt Lake City",
             "style": "News",
-            "description": "Talk News 102.7 KSL. Utah News & Talk Station",
+            "description": "Talk News 102.7 KSL. Utah News & Talk Station.",
             "logo": "station_ksl.png",
             "url": [
                 "http://69.31.54.137:3690/KSLAM_SC",
@@ -347,7 +347,7 @@
             "province": "NY",
             "city": "New York",
             "style": "News",
-            "description": "Talk News 93.9 AM 820 WNYC. New York Public Radio",
+            "description": "Talk News 93.9 AM 820 WNYC. New York Public Radio.",
             "logo": "station_wnyc.png",
             "url": [
                 "http://opera-stream.wqxr.org/wnycfm-tunein.aac",
@@ -402,7 +402,7 @@
             "province": "NY",
             "city": "New York",
             "style": "News",
-            "description": "Talk News 104.3 WOR 710. The Voice of New York",
+            "description": "Talk News 104.3 WOR 710. The Voice of New York.",
             "logo": "station_wor.png",
             "url": [
                 "http://c5icy.prod.playlists.ihrhls.com/5874_icy"
@@ -528,7 +528,7 @@
             "province": "OH",
             "city": "Kent",
             "style": "News",
-            "description": "FM 89.1 89.7 90.7 89.3 WKSU News BBC World Service",
+            "description": "FM 89.1 89.7 90.7 89.3 WKSU News BBC World Service.",
             "logo": "station_wksu.png",
             "url": [
                 "http://66.225.205.169/wksu4.mp3.128"
