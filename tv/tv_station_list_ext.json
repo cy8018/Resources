@@ -242,14 +242,14 @@
         },
         {
             "name": "CHC HD Movie",
-            "logo": "chc_hd_movie.png",
+            "logo": "chc_hd_movie.jpg",
             "url": [
                 "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
             ]
         },
         {
             "name": "Jiangsu TV",
-            "logo": "jaingsu_tv.png",
+            "logo": "jiangsu_tv.png",
             "url": [
                 "http://117.169.120.140:8080/live/hdjiangsustv/.m3u8",
                 "http://118.123.60.17:8112/syhjcms_hls/10000100000000050000000000000075",
