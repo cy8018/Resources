@@ -242,7 +242,7 @@
         },
         {
             "name": "CHC HD Movie",
-            "logo": "chc_hd_movie.jpg",
+            "logo": "chc_hd_movie.png",
             "url": [
                 "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
             ]
@@ -331,7 +331,7 @@
         },
         {
             "name": "Beijing TV",
-            "logo": "beijing_tv.jpg",
+            "logo": "beijing_tv.png",
             "url": [
                 "http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/hdbeijingstv/1.m3u8",
@@ -506,7 +506,7 @@
         },
         {
             "name": "Guizhou TV",
-            "logo": "guizhou_tv.jpg",
+            "logo": "guizhou_tv.png",
             "url": [
                 "http://111.40.205.87/PLTV/88888888/224/3221225626/index.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/guizhoustv/1.m3u8",
@@ -708,7 +708,7 @@
         },
         {
             "name": "Qinghai TV",
-            "logo": "qinghai_tv.jpg",
+            "logo": "qinghai_tv.png",
             "url": [
                 "http://111.40.205.76/PLTV/88888888/224/3221225628/index.m3u8",
                 "http://111.40.205.87/PLTV/88888888/224/3221225628/index.m3u8",
@@ -780,7 +780,7 @@
         },
         {
             "name": "Xizang TV",
-            "logo": "xizang_tv.jpg",
+            "logo": "xizang_tv.png",
             "url": [
                 "http://111.40.205.76/PLTV/88888888/224/3221225638/index.m3u8",
                 "http://111.40.205.87/PLTV/88888888/224/3221225638/index.m3u8",
@@ -796,7 +796,7 @@
         },
         {
             "name": "Nanjing News",
-            "logo": "nanjing_news_tv.jpg",
+            "logo": "nanjing_news_tv.png",
             "url": ["http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8"]
         }
     ]
