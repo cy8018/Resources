@@ -52,6 +52,50 @@
             ]
         },
         {
+            "name": "3AW News Talk",
+            "country": "AU",
+            "province": "VIC",
+            "city": "Melbourne",
+            "style": "News",
+            "description": "Melbourne’s favourite news, talk & sport.",
+            "logo": "station_3aw_newstalk.png",
+            "url": [
+                "http://shoutcast.3aw.com.au/3aw/",
+                "http://shout01.stream.hostworks.com.au/3aw_mp3",
+                "http://shout01.stream.hostworks.com.au/3aw",
+                "http://shout01.stream.hostworks.com.au:8000/3aw"
+            ]
+        },
+        {
+            "name": "4BC News Talk",
+            "country": "AU",
+            "province": "QLD",
+            "city": "Brisbane",
+            "style": "News",
+            "description": "4BC 1116 News Talk Brisbane.",
+            "logo": "station_4bc_newstalk.png",
+            "url": [
+                "http://frnshout02.stream.hostworks.com.au:8800/4bc_mp3",
+                "http://shout01.stream.hostworks.com.au/4bc_mp3",
+                "http://shoutcast.4bc.com.au/4bc"
+            ]
+        },
+        {
+            "name": "6PR News Talk",
+            "country": "AU",
+            "province": "WA",
+            "city": "Perth",
+            "style": "News",
+            "description": "6PR 882 The Voice of Perth. Perth's leading news and entertainment station.",
+            "logo": "station_6pr_newstalk.png",
+            "url": [
+                "http://shout01.stream.hostworks.com.au:8000/6pr",
+                "http://shoutcast.6pr.com.au/6pr/;",
+                "http://per6praud-lh.akamaihd.net/i/perthpraud_1@110913/master.m3u8",
+                "http://shout01.stream.hostworks.com.au/6pr_mp3"
+            ]
+        },
+        {
             "name": "RNZ National",
             "country": "NZ",
             "province": "",
@@ -61,6 +105,19 @@
             "logo": "station_rnz.png",
             "url": [
                 "http://radionz-ice.streamguys.com/national.mp3"
+            ]
+        },
+        {
+            "name": "Newstalk ZB",
+            "country": "NZ",
+            "province": "CAN",
+            "city": "Auckland",
+            "style": "News",
+            "description": "New Zealand's #1 Talk Station.",
+            "logo": "station_rnz.png",
+            "url": [
+                "http://ais-nzme.streamguys1.com/nz_002_aac",
+                "http://ais-nzme.streamguys1.com/nz_002/playlist.m3u8"
             ]
         },
         {
@@ -195,6 +252,26 @@
             "logo": "station_ktla.png",
             "url": [
                 "http://c11icy.prod.playlists.ihrhls.com/6927_icy"
+            ]
+        },
+        {
+            "name": "KRLA",
+            "country": "US",
+            "province": "CA",
+            "city": "Glendale",
+            "style": "News",
+            "description": "AM 870 The Answer Intelligent. Conservative Talk Radio. Where Your Opinion Counts.",
+            "logo": "station_krla.png",
+            "url": [
+                "http://208.80.54.31:3690/KRLAAMAAC_SC",
+                "https://77.67.109.164/KRLAAMAAC_SC",
+                "http://192.173.28.226:3690/KRLAAMAAC_SC",
+                "http://208.80.54.31/KRLAAMAAC_SC",
+                "http://192.173.28.50/KRLAAM_SC",
+                "http://69.31.54.140/KRLAAM_SC",
+                "http://208.80.54.87:3690/KRLAAM_SC",
+                "http://192.173.28.50:3690/KRLAAM_SC",
+                "http://208.80.54.87/KRLAAM_SC"
             ]
         },
         {
@@ -434,6 +511,28 @@
             ]
         },
         {
+            "name": "WCTC",
+            "country": "US",
+            "province": "NJ",
+            "city": "New Brunswick",
+            "style": "News",
+            "description": "Talkradio 1450 WCTC. The Voice of Central New Jersey.",
+            "logo": "station_wctc.png",
+            "url": [
+                "http://208.80.52.66:3690/WCTCAM_SC",
+                "http://208.92.55.40:3690/WCTCAM_SC",
+                "http://208.80.52.141:3690/WCTCAM_SC",
+                "http://208.80.52.66/WCTCAM_SC",
+                "http://208.92.55.40/WCTCAM_SC",
+                "http://208.80.52.141:3690/WCTCAMAAC_SC",
+                "http://208.80.52.66:3690/WCTCAMAAC_SC",
+                "http://208.80.52.66/WCTCAMAAC_SC",
+                "http://208.80.52.141/WCTCAMAAC_SC",
+                "http://208.92.55.40/WCTCAMAAC_SC",
+                "http://208.92.55.40:3690/WCTCAMAAC_SC"
+            ]
+        },
+        {
             "name": "WMAL",
             "country": "US",
             "province": "",
@@ -524,6 +623,25 @@
             ]
         },
         {
+            "name": "WFNC",
+            "country": "US",
+            "province": "NC",
+            "city": "Fayetteville",
+            "style": "News",
+            "description": "News Talk Radio 640 WFNC. Fayetteville's Information Station",
+            "logo": "station_wfnc.png",
+            "url": [
+                "http://208.92.55.133:3690/WFNCAM_SC",
+                "http://208.80.52.113:3690/WFNCAM_SC",
+                "http://208.92.55.133/WFNCAM_SC",
+                "http://208.80.52.113/WFNCAM_SC",
+                "http://208.92.55.133/WFNCAMAAC_SC",
+                "http://208.92.55.133:3690/WFNCAMAAC_SC",
+                "http://208.80.52.113:3690/WFNCAMAAC_SC",
+                "http://208.80.52.113/WFNCAMAAC_SC"
+            ]
+        },
+        {
             "name": "WGN",
             "country": "US",
             "province": "IL",
@@ -557,6 +675,25 @@
             "logo": "station_wksu.png",
             "url": [
                 "http://66.225.205.169/wksu4.mp3.128"
+            ]
+        },
+        {
+            "name": "WGOW",
+            "country": "US",
+            "province": "TN",
+            "city": "Chattanooga",
+            "style": "News",
+            "description": "Talk Radio 102.3. The Chattanooga's Talk Monster.",
+            "logo": "station_wgow.png",
+            "url": [
+                "http://208.92.55.138:3690/WGOWFM_SC",
+                "https://208.92.54.4/WGOWFM_SC",
+                "http://208.92.55.138/WGOWFM_SC",
+                "http://208.80.52.131/WGOWFMAAC_SC",
+                "http://38.142.56.139/WGOWFMAAC_SC",
+                "http://208.80.52.131:3690/WGOWFMAAC_SC",
+                "https://208.80.52.56/WGOWFMAAC_SC",
+                "http://38.142.56.139:3690/WGOWFMAAC_SC"
             ]
         },
         {
