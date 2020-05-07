@@ -79,12 +79,11 @@
             "name": "CCTV-4",
             "logo": "cctv4.png",
             "url": [
-                "http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8",
                 "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225534/index.m3u8",
-                "http://223.82.250.72/live/cctv-4/1.m3u8",
                 "http://223.110.243.173/PLTV/3/224/3221225534/index.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-4/yst.m3u8",
+                "http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8",
+                "http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8",
                 "http://117.169.120.140:8080/live/cctv-4/.m3u8"
             ]
         },
@@ -92,7 +91,6 @@
             "name": "CCTV-5",
             "logo": "cctv5.png",
             "url": [
-                "http://183.207.249.71/PLTV/2/224/3221226111/index.m3u8",
                 "http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8",
                 "http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8",
@@ -129,15 +127,12 @@
             "name": "CCTV-7",
             "logo": "cctv7.png",
             "url": [
-                "http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8",
-                "http://117.169.120.140:8080/live/cctv-7/.m3u8",
-                "http://183.207.249.71/PLTV/3/224/3221225546/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/cctv-7/yst.m3u8",
-                "http://183.207.248.8:80/PLTV/3/224/3221225546/index.m3u8",
-                "http://117.148.187.37/PLTV/88888888/224/3221226470/index.m3u8",
                 "http://117.148.187.37/PLTV/88888888/224/3221226122/index.m3u8",
+                "http://117.148.187.37/PLTV/88888888/224/3221226470/index.m3u8",
+                "http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8",
+                "http://121.31.30.90:8085/ysten-business/live/cctv-7/yst.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8",
-                "http://183.207.249.9/PLTV/3/224/3221225546/1.m3u8"
+                "http://117.169.120.140:8080/live/cctv-7/.m3u8"
             ]
         },
         {
