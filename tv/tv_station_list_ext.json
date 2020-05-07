@@ -26,9 +26,9 @@
             "name": "CCTV-1",
             "logo": "cctv1.png",
             "url": [
-                "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
                 "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8",
                 "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227462/index.m3u8",
+                "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8",
                 "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226998/index.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-1/yst.m3u8",
@@ -47,14 +47,14 @@
             "name": "CCTV-2",
             "logo": "cctv2.png",
             "url": [
-                "http://117.169.120.140:8080/live/cctv-2/.m3u8",
-                "http://125.210.152.10:8060/live/CCTV2HD_H265.m3u8",
                 "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225974/index.m3u8",
+                "http://ivi.bupt.edu.cn/hls/cctv2.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-2/yst.m3u8",
                 "http://117.148.187.37/PLTV/88888888/224/3221226138/index.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8",
                 "http://hbpx.chinashadt.com:2036/live/px3.stream/playlist.m3u8",
-                "http://ivi.bupt.edu.cn/hls/cctv2.m3u8"
+                "http://117.169.120.140:8080/live/cctv-2/.m3u8",
+                "http://125.210.152.10:8060/live/CCTV2HD_H265.m3u8"
             ]
         },
         {
@@ -229,8 +229,6 @@
             "name": "CCTV-13",
             "logo": "cctv13.png",
             "url": [
-                "http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8",
-                "http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8",
                 "http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8",
                 "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8",
                 "http://hhab.chinashadt.com:2136/live/di3.stream/playlist.m3u8",
@@ -238,6 +236,8 @@
                 "http://cctv.v.kcdnvip.com/live/cctv13_1/index.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-13/yst.m3u8",
                 "http://117.169.120.140:8080/live/cctv-13/.m3u8",
+                "http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8",
+                "http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8",
                 "http://183.207.249.71/PLTV/3/224/3221225560/index.m3u8"
             ]
         },
@@ -281,8 +281,6 @@
             "name": "Jiangsu TV",
             "logo": "jiangsu_tv.png",
             "url": [
-                "http://117.169.120.140:8080/live/hdjiangsustv/.m3u8",
-                "http://118.123.60.17:8112/syhjcms_hls/10000100000000050000000000000075",
                 "http://39.135.32.26:6610/000000001000/1000000001000001828/index.m3u8?i",
                 "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/hdjiangsustv/yst.m3u8",
@@ -295,6 +293,8 @@
                 "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/jiangsustv/1.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/jiangsustv/yst.m3u8",
+                "http://117.169.120.140:8080/live/hdjiangsustv/.m3u8",
+                "http://118.123.60.17:8112/syhjcms_hls/10000100000000050000000000000075",
                 "http://183.207.248.11/PLTV/4/224/3221225782/index.m3u8"
             ]
         },
@@ -302,10 +302,6 @@
             "name": "Zhejiang TV",
             "logo": "zhejiang_tv.png",
             "url": [
-                "http://117.148.187.37/PLTV/88888888/224/3221226474/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/yst.m3u8",
-                "http://117.148.187.37/PLTV/88888888/224/3221226136/index.m3u8",
                 "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227483/index.m3u8",
                 "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227393/index.m3u8",
                 "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227215/index.m3u8",
@@ -316,6 +312,10 @@
                 "http://121.31.30.90:8085/ysten-business/live/zhejiangstv/yst.m3u8",
                 "http://183.207.249.9/PLTV/3/224/3221225544/index.m3u8",
                 "http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8",
+                "http://117.148.187.37/PLTV/88888888/224/3221226474/index.m3u8",
+                "http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8",
+                "http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/yst.m3u8",
+                "http://117.148.187.37/PLTV/88888888/224/3221226136/index.m3u8",
                 "http://ivi.bupt.edu.cn/hls/zjhd.m3u8"
             ]
         },
@@ -323,9 +323,6 @@
             "name": "Dongfang TV",
             "logo": "dongfang_tv.png",
             "url": [
-                "http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8",
-                "http://hls-ott-zhibo.wasu.tv/live/200/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/hddongfangstv/1.m3u8",
                 "http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8",
                 "http://117.148.187.37/PLTV/88888888/224/3221226142/index.m3u8",
                 "http://111.40.205.87/PLTV/88888888/224/3221225647/index.m3u8",
@@ -334,6 +331,9 @@
                 "http://121.31.30.90:8085/ysten-business/live/dongfangstv/1.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/dongfangstv/yst.m3u8",
                 "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=16&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
+                "http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8",
+                "http://hls-ott-zhibo.wasu.tv/live/200/index.m3u8",
+                "http://121.31.30.90:8085/ysten-business/live/hddongfangstv/1.m3u8",
                 "http://ivi.bupt.edu.cn/hls/dfhd.m3u8"
             ]
         },
@@ -341,11 +341,11 @@
             "name": "Hunan TV",
             "logo": "hunan_tv.png",
             "url": [
+                "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225908/index.m3u8",
                 "http://39.134.52.182/wh7f454c46tw1696467131_1868720566/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225981/index.m3u8",
                 "http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/hdhunanstv/1.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/hdhunanstv/yst.m3u8",
-                "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225908/index.m3u8",
                 "http://223.82.250.72/live/hdhunanstv/1.m3u8",
                 "http://ivi.bupt.edu.cn/hls/hunanhd.m3u8",
                 "http://117.148.187.37/PLTV/88888888/224/3221226162/index.m3u8",
