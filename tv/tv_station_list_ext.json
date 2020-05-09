@@ -1,12 +1,51 @@
 {
     "stations": [
         {
-            "name": "NBC Bay Area",
-            "logo": "nbc_bay_area.png",
+            "name": "BBC News",
+            "logo": "bbc_news.png",
             "url": [
-                "http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8",
-                "https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8",
-                "https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8"
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+        {
+            "name": "BBC World News",
+            "logo": "bbc_world_news.png",
+            "url": [
+                "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
+            ]
+        },
+        {
+            "name": "CBS",
+            "logo": "cbs.png",
+            "url": [
+                "http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8",
+                "http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8",
+                "http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8",
+                "http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8"
+            ]
+        },
+        {
+            "name": "CBSN",
+            "logo": "cbsn.png",
+            "url": [
+                "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8",
+                "http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8",
+                "https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8"
+            ]
+        },
+        {
+            "name": "NASA TV",
+            "logo": "nasa_tv.png",
+            "url": [
+                "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8"
+            ]
+        },
+        {
+            "name": "NBC",
+            "logo": "nbc.png",
+            "url": [
+                "http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8",
+                "http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8"
             ]
         },
         {
@@ -22,6 +61,15 @@
             "url": [
                 "http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8",
                 "http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8"
+            ]
+        },
+        {
+            "name": "NBC Bay Area",
+            "logo": "nbc_bay_area.png",
+            "url": [
+                "http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8",
+                "https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8",
+                "https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8"
             ]
         },
         {
