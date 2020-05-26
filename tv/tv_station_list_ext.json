@@ -15,6 +15,15 @@
             ]
         },
         {
+            "name": "Sky News",
+            "logo": "sky_news.png",
+            "url": [
+                "https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true",
+                "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+                "http://165.22.122.126:25461/live/zero/app/10.m3u8"
+            ]
+        },
+        {
             "name": "CBS",
             "logo": "cbs.png",
             "url": [
@@ -108,6 +117,16 @@
             "logo": "ctv_news.png",
             "url": [
                 "https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8"
+            ]
+        },
+        {
+            "name": "Sky News AU",
+            "logo": "sky_news.png",
+            "url": [
+                "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
+                "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8",
+                "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8",
+                "https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8"
             ]
         },
         {
