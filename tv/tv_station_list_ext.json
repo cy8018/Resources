@@ -97,6 +97,20 @@
             ]
         },
         {
+            "name": "CBC News Network",
+            "logo": "cbc_news_network.png",
+            "url": [
+                "https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8"
+            ]
+        },
+        {
+            "name": "CTV News",
+            "logo": "ctv_news.png",
+            "url": [
+                "https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8"
+            ]
+        },
+        {
             "name": "CGTN",
             "logo": "cgtn.png",
             "url": [
