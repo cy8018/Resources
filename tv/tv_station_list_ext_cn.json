@@ -249,9 +249,9 @@
             "name": "江苏卫视",
             "logo": "jiangsu_tv.png",
             "url": [
-                "http://39.135.32.26:6610/000000001000/1000000001000001828/index.m3u8?i",
                 "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/hdjiangsustv/yst.m3u8",
+                "http://39.135.32.26:6610/000000001000/1000000001000001828/index.m3u8?i",
                 "http://ivi.bupt.edu.cn/hls/jshd.m3u8",
                 "http://117.148.187.37/PLTV/88888888/224/3221226140/index.m3u8",
                 "http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8",
@@ -649,7 +649,7 @@
             ]
         },
         {
-            "name": "湖北卫视",
+            "name": "河北卫视",
             "logo": "hebei_tv.png",
             "url": [
                 "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226013/index.m3u8",
@@ -782,6 +782,58 @@
             "name": "南京新闻频道",
             "logo": "nanjing_news_tv.png",
             "url": ["http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8"]
+        },
+        {
+            "name": "CBSN",
+            "logo": "cbsn.png",
+            "url": [
+                "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8",
+                "http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8",
+                "https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8"
+            ]
+        },
+        {
+            "name": "KIRO 7",
+            "logo": "kiro_7_news.png",
+            "url": [
+                "http://svc-lvanvato-cxtv-kiro.cmgvideo.com:80/kiro/1864k/index.m3u8",
+                "http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8"
+            ]
+        },
+        {
+            "name": "WGN TV Chicago",
+            "logo": "wgn_tv.png",
+            "url": [
+                "http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8",
+                "http://bit.ly/2z8NPLB"
+            ]
+        },
+        {
+            "name": "CBC News Network",
+            "logo": "cbc_news_network.png",
+            "url": [
+                "https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8"
+            ]
+        },
+        {
+            "name": "CTV News",
+            "logo": "ctv_news.png",
+            "url": [
+                "https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8"
+            ]
+        },
+        {
+            "name": "CGTN",
+            "logo": "cgtn.png",
+            "url": [
+                "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
+                "http://live.cgtn.com/1000/prog_index.m3u8",
+                "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
+                "http://live.cgtn.com/500/prog_index.m3u8",
+                "http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8",
+                "https://livedoc.cgtn.com/1000d/prog_index.m3u8",
+                "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8"
+            ]
         }
     ]
 }
