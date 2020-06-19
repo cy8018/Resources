@@ -24,45 +24,6 @@
             ]
         },
         {
-            "name": "ABC",
-            "logo": "abc.png",
-            "url": [
-                "http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/136.m3u8"
-            ]
-        },
-        {
-            "name": "ABC News",
-            "logo": "abc_news.png",
-            "url": [
-                "http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/135.m3u8"
-            ]
-        },
-        {
-            "name": "CNN",
-            "logo": "cnn.png",
-            "url": [
-                "http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/142.m3u8",
-                "http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/7254.m3u8",
-                "http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3134.m3u8"
-            ]
-        },
-        {
-            "name": "Fox 5",
-            "logo": "fox5.png",
-            "url": [
-                "http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6965.m3u8"
-            ]
-        },
-        {
-            "name": "Fox News",
-            "logo": "fox_news.png",
-            "url": [
-                "http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/127.m3u8",
-                "http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3013.m3u8",
-                "http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5782.m3u8"
-            ]
-        },
-        {
             "name": "CBS",
             "logo": "cbs.png",
             "url": [
@@ -79,20 +40,6 @@
                 "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8",
                 "http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8",
                 "https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8"
-            ]
-        },
-        {
-            "name": "MSNBC",
-            "logo": "msnbc.png",
-            "url": [
-                "http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3245.m3u8"
-            ]
-        },
-        {
-            "name": "CNBC",
-            "logo": "cnbc.png",
-            "url": [
-                "http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3246.m3u8"
             ]
         },
         {
@@ -125,14 +72,6 @@
                 "http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8",
                 "https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8",
                 "https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8"
-            ]
-        },
-        {
-            "name": "HBO",
-            "logo": "hbo.png",
-            "url": [
-                "http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/2458.m3u8",
-                "http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/2457.m3u8"
             ]
         },
         {
