@@ -390,10 +390,10 @@
         {
             "name": "Jiangsu TV",
             "logo": "jiangsu_tv.png",
-            "url": [
-                "http://39.135.32.26:6610/000000001000/1000000001000001828/index.m3u8?i",
+            "url": [    
                 "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/hdjiangsustv/yst.m3u8",
+                "http://39.135.32.26:6610/000000001000/1000000001000001828/index.m3u8?i",
                 "http://ivi.bupt.edu.cn/hls/jshd.m3u8",
                 "http://117.148.187.37/PLTV/88888888/224/3221226140/index.m3u8",
                 "http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8",
