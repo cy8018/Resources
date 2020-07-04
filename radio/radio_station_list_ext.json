@@ -1020,12 +1020,26 @@
             ]
         },
         {
-            "name": "JS Commnunication Station",
+            "name": "CRI News Radio",
+            "country": "CN",
+            "province": "",
+            "city": "Beijing",
+            "style": "News",
+            "description": "CRI News Radio. The world is next to your ears.",
+            "logo": "station_cnr.png",
+            "url": [
+                "http://ls.qingting.fm/live/24035.m3u8",
+                "http://sk.cri.cn/905.m3u8",
+                "http://live.xmcdn.com/live/1040/64.m3u8"
+            ]
+        },
+        {
+            "name": "Jiangsu Traffic",
             "country": "CN",
             "province": "JS",
             "city": "Nanjing",
             "style": "News",
-            "description": "Jiangsu Commnunication Broadcasting Station",
+            "description": "Jiangsu Commnunication Broadcasting Station.",
             "logo": "station_jsjtgb.png",
             "url": [
                 "http://ls.qingting.fm/live/4054.m3u8",
