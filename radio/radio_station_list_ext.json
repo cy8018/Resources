@@ -991,6 +991,47 @@
             "url": [
                 "http://cbcliveradio-lh.akamaihd.net/i/CBCR1_KEL@386538/master.m3u8"
             ]
+        },
+        {
+            "name": "CCTV-13",
+            "country": "CN",
+            "province": "",
+            "city": "Beijing",
+            "style": "News",
+            "description": "CCTV-13 News",
+            "logo": "station_cctv13.png",
+            "url": [
+                "http://cctv.v.myalicdn.com/live/cctv13_1audio.m3u8?adapt=0&BR=audio"
+            ]
+        },
+        {
+            "name": "CNR Voice of China",
+            "country": "CN",
+            "province": "",
+            "city": "Beijing",
+            "style": "News",
+            "description": "CNR Voice of China",
+            "logo": "station_cnr.png",
+            "url": [
+                "http://ls.qingting.fm/live/386.m3u8",
+                "http://ngcdn001.cnr.cn/live/zgzs/index.m3u8",
+                "http://live.xmcdn.com/live/1065/64.m3u8",
+                "http://ngcdn001.cnr.cn/live/zgzs48/index.m3u8"
+            ]
+        },
+        {
+            "name": "JS Commnunication Station",
+            "country": "CN",
+            "province": "JS",
+            "city": "Nanjing",
+            "style": "News",
+            "description": "Jiangsu Commnunication Broadcasting Station",
+            "logo": "station_jsjtgb.png",
+            "url": [
+                "http://ls.qingting.fm/live/4054.m3u8",
+                "http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8",
+                "http://live.xmcdn.com/live/536/64.m3u8"
+            ]
         }
     ]
 }
