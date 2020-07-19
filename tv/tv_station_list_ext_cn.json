@@ -242,7 +242,34 @@
             "name": "CHC高清电影",
             "logo": "chc_hd_movie.png",
             "url": [
-                "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+                "http://ivi.bupt.edu.cn/hls/chchd.m3u8",
+                "rtmp://ivi.bupt.edu.cn:1935/livetv/chchd"
+            ]
+        },
+        {
+            "name": "凤凰卫视",
+            "logo": "phoenix.png",
+            "url": [
+                "http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8",
+                "http://111.13.42.13/PLTV/88888888/224/3221226143/index.m3u8",
+                "http://183.251.61.211/PLTV/88888888/224/3221225900/index.m3u8",
+                "http://112.50.243.7/PLTV/88888888/224/3221225900/1.m3u8",
+                "http://183.251.61.209/PLTV/88888888/224/3221225900/index.m3u8",
+                "http://117.169.120.217:8080/live/fhchinese/.m3u8",
+                "http://112.50.243.7/PLTV/88888888/224/3221225900/index.m3u8",
+                "http://183.251.61.198/PLTV/88888888/224/3221225901/index.m3u8"
+            ]
+        },
+        {
+            "name": "凤凰资讯",
+            "logo": "phoenix_news.png",
+            "url": [
+                "http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8",
+                "http://112.50.243.7/PLTV/88888888/224/3221225901/index.m3u8",
+                "http://117.169.120.138:8080/live/fhzixun/.m3u8",
+                "http://112.50.243.7/PLTV/88888888/224/3221225901/1.m3u8",
+                "http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8",
+                "http://117.169.120.217:8080/live/fhzixun/.m3u8"
             ]
         },
         {
@@ -779,9 +806,18 @@
             ]
         },
         {
-            "name": "南京新闻频道",
-            "logo": "nanjing_news_tv.png",
-            "url": ["http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8"]
+            "name": "BBC News",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+        {
+            "name": "BBC World News",
+            "logo": "bbc_world_news.png",
+            "url": [
+                "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
+            ]
         },
         {
             "name": "CBSN",
@@ -793,19 +829,19 @@
             ]
         },
         {
+            "name": "NBC",
+            "logo": "nbc.png",
+            "url": [
+                "http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8",
+                "http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8"
+            ]
+        },
+        {
             "name": "KIRO 7",
             "logo": "kiro_7_news.png",
             "url": [
                 "http://svc-lvanvato-cxtv-kiro.cmgvideo.com:80/kiro/1864k/index.m3u8",
                 "http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8"
-            ]
-        },
-        {
-            "name": "WGN TV Chicago",
-            "logo": "wgn_tv.png",
-            "url": [
-                "http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8",
-                "http://bit.ly/2z8NPLB"
             ]
         },
         {
