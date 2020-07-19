@@ -4,8 +4,11 @@
             "name": "CCTV-1",
             "logo": "cctv1.png",
             "url": [
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/",
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/",
                 "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8",
                 "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227462/index.m3u8",
+                "http://223.110.242.130:6610/cntv/live1/cctv-1/cctv-1",
                 "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8",
                 "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226998/index.m3u8",
@@ -25,6 +28,8 @@
             "name": "CCTV-2",
             "logo": "cctv2.png",
             "url": [
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/",
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/",
                 "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225974/index.m3u8",
                 "http://ivi.bupt.edu.cn/hls/cctv2.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-2/yst.m3u8",
@@ -39,6 +44,8 @@
             "name": "CCTV-3",
             "logo": "cctv3.png",
             "url": [
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/",
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/",
                 "http://183.207.249.5/PLTV/3/224/3221225588/index.m3u8",
                 "http://183.207.249.9/PLTV/3/224/3221225588/1.m3u8",
                 "http://hnmc.chinashadt.com:3036/live/1003.stream/playlist.m3u8",
@@ -57,6 +64,8 @@
             "name": "CCTV-4",
             "logo": "cctv4.png",
             "url": [
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/",
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/",
                 "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225534/index.m3u8",
                 "http://223.110.243.173/PLTV/3/224/3221225534/index.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-4/yst.m3u8",
@@ -69,6 +78,8 @@
             "name": "CCTV-5",
             "logo": "cctv5.png",
             "url": [
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/",
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/",
                 "http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8",
                 "http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8",
@@ -84,6 +95,8 @@
             "name": "CCTV-6",
             "logo": "cctv6.png",
             "url": [
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/",
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/",
                 "http://117.169.120.140:8080/live/cctv-6/.m3u8",
                 "http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8",
                 "http://39.135.32.27:6610/000000001000/1000000001000001737/index.m3u8?i",
@@ -104,6 +117,7 @@
             "name": "CCTV-7",
             "logo": "cctv7.png",
             "url": [
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/",
                 "http://117.148.187.37/PLTV/88888888/224/3221226122/index.m3u8",
                 "http://117.148.187.37/PLTV/88888888/224/3221226470/index.m3u8",
                 "http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8",
@@ -116,6 +130,8 @@
             "name": "CCTV-8",
             "logo": "cctv8.png",
             "url": [
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/",
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/",
                 "http://117.169.120.140:8080/live/cctv-8/.m3u8",
                 "http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8",
                 "http://39.135.32.29:6610/000000001000/1000000001000003736/index.m3u8?i",
@@ -136,6 +152,7 @@
             "name": "CCTV-9",
             "logo": "cctv9.png",
             "url": [
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-9/G_CCTV-9/",
                 "http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-news/yst.m3u8",
                 "http://117.148.187.37/PLTV/88888888/224/3221226156/index.m3u8",
@@ -152,6 +169,7 @@
             "name": "CCTV-10",
             "logo": "cctv10.png",
             "url": [
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/",
                 "http://117.169.120.140:8080/live/cctv-10/.m3u8",
                 "http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8",
                 "http://183.207.249.71/PLTV/3/224/3221225550/index.m3u8",
@@ -170,6 +188,7 @@
             "name": "CCTV-11",
             "logo": "cctv11.png",
             "url": [
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/",
                 "http://117.169.120.140:8080/live/cctv-11/.m3u8",
                 "http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-11/yst.m3u8",
@@ -182,6 +201,7 @@
             "name": "CCTV-12",
             "logo": "cctv12.png",
             "url": [
+                "http://223.110.241.203:6610/gitv/live1/CCTV-12/CCTV-12/",
                 "http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-12/yst.m3u8",
                 "http://117.148.187.37/PLTV/88888888/224/3221226167/index.m3u8",
@@ -198,6 +218,7 @@
             "name": "CCTV-13",
             "logo": "cctv13.png",
             "url": [
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/",
                 "http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8",
                 "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8",
                 "http://hhab.chinashadt.com:2136/live/di3.stream/playlist.m3u8",
@@ -207,13 +228,16 @@
                 "http://117.169.120.140:8080/live/cctv-13/.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8",
                 "http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8",
-                "http://183.207.249.71/PLTV/3/224/3221225560/index.m3u8"
+                "http://183.207.249.71/PLTV/3/224/3221225560/index.m3u8",
+                "http://223.110.242.130:6610/cntv/live1/cctv-13/cctv-13"
             ]
         },
         {
             "name": "CCTV-14",
             "logo": "cctv14.png",
             "url": [
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-14/G_CCTV-14/",
+                "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225813/index.m3u8",
                 "http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8",
                 "http://ivi.bupt.edu.cn/hls/cctv14.m3u8",
@@ -229,6 +253,7 @@
             "name": "CCTV-15",
             "logo": "cctv15.png",
             "url": [
+                "http://223.110.241.203:6610/gitv/live1/G_CCTV-15/G_CCTV-15/",
                 "http://111.40.205.87/PLTV/88888888/224/3221225601/index.m3u8",
                 "http://117.148.187.37/PLTV/88888888/224/3221226112/index.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8",
@@ -242,8 +267,7 @@
             "name": "CHC高清电影",
             "logo": "chc_hd_movie.png",
             "url": [
-                "http://ivi.bupt.edu.cn/hls/chchd.m3u8",
-                "rtmp://ivi.bupt.edu.cn:1935/livetv/chchd"
+                "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
             ]
         },
         {
