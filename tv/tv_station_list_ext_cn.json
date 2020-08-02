@@ -830,6 +830,21 @@
             ]
         },
         {
+            "name": "江苏体育休闲",
+            "logo": "jiangsu_tv.png",
+            "url": [
+                "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225935/index.m3u8"
+            ]
+        },
+        {
+            "name": "南京娱乐",
+            "logo": "nanjing_news_tv.png",
+            "url": [
+                "http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8",
+                "http://live.nbs.cn/channels/njtv/ylpd/flv:500k/live?1546706658123"
+            ]
+        },
+        {
             "name": "BBC News",
             "logo": "bbc_news.png",
             "url": [
