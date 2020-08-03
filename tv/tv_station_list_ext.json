@@ -413,13 +413,6 @@
             ]
         },
         {
-            "name": "CHC HD Movie",
-            "logo": "chc_hd_movie.png",
-            "url": [
-                "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
-            ]
-        },
-        {
             "name": "Phoenix TV",
             "logo": "phoenix.png",
             "url": [
