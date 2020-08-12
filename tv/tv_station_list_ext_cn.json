@@ -158,7 +158,6 @@
         },
         {
             "name": "CCTV-9",
-            "code": "cctvjilu",
             "logo": "cctv9.png",
             "url": [
                 "http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8",
@@ -196,7 +195,6 @@
         },
         {
             "name": "CCTV-11",
-            "code": "cctv11",
             "logo": "cctv11.png",
             "url": [
                 "http://117.169.120.140:8080/live/cctv-11/.m3u8",
@@ -247,7 +245,6 @@
         },
         {
             "name": "CCTV-14",
-            "code": "cctvchild",
             "logo": "cctv14.png",
             "url": [
                 "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225813/index.m3u8",
@@ -265,7 +262,6 @@
         },
         {
             "name": "CCTV-15",
-            "code": "CCTV-15",
             "logo": "cctv15.png",
             "url": [
                 "http://111.40.205.87/PLTV/88888888/224/3221225601/index.m3u8",
@@ -418,7 +414,6 @@
         },
         {
             "name": "安徽卫视",
-            "code": "anhui",
             "logo": "anhui_tv.png",
             "url": [
                 "http://125.210.152.10:8060/live/AHWSHD_H265.m3u8",
@@ -439,7 +434,6 @@
         },
         {
             "name": "深圳卫视",
-            "code": "shenzhen",
             "logo": "shenzhen_tv.png",
             "url": [
                 "http://112.50.243.8/PLTV/88888888/224/3221225848/1.m3u8",
@@ -459,7 +453,6 @@
         },
         {
             "name": "天津卫视",
-            "code": "tianjin",
             "logo": "tianjin_tv.png",
             "url": [
                 "http://112.50.243.8/PLTV/88888888/224/3221225830/1.m3u8",
@@ -483,7 +476,6 @@
         },
         {
             "name": "湖北卫视",
-            "code": "hubei",
             "logo": "hubei_tv.png",
             "url": [
                 "http://117.169.120.140:8080/live/hdhubeistv/.m3u8",
@@ -506,7 +498,6 @@
         },
         {
             "name": "辽宁卫视",
-            "code": "liaoning",
             "logo": "liaoning_tv.png",
             "url": [
                 "http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8",
@@ -526,7 +517,6 @@
         },
         {
             "name": "吉林卫视",
-            "code": "jilin",
             "logo": "jilin_tv.png",
             "url": [
                 "http://117.169.120.140:8080/live/jilinstv/.m3u8",
