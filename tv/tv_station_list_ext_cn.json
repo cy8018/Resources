@@ -1,8 +1,8 @@
 {
     "stations": [
         {
+            "id": "1",
             "name": "CCTV-1",
-            "code": "cctv1",
             "logo": "cctv1.png",
             "url": [
                 "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8",
@@ -26,6 +26,7 @@
             ]
         },
         {
+            "id": "2",
             "name": "CCTV-2",
             "code": "cctv2",
             "logo": "cctv2.png",
@@ -43,8 +44,8 @@
             ]
         },
         {
+            "id": "3",
             "name": "CCTV-3",
-            "code": "cctv3",
             "logo": "cctv3.png",
             "url": [
                 "http://183.207.249.5/PLTV/3/224/3221225588/index.m3u8",
@@ -64,8 +65,8 @@
             ]
         },
         {
+            "id": "4",
             "name": "CCTV-4",
-            "code": "cctv4",
             "logo": "cctv4.png",
             "url": [
                 "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225534/index.m3u8",
@@ -79,6 +80,7 @@
             ]
         },
         {
+            "id": "5",
             "name": "CCTV-5",
             "code": "cctv5",
             "logo": "cctv5.png",
@@ -97,8 +99,8 @@
             ]
         },
         {
+            "id": "7",
             "name": "CCTV-6",
-            "code": "cctv6",
             "logo": "cctv6.png",
             "url": [
                 "http://117.169.120.140:8080/live/cctv-6/.m3u8",
@@ -120,8 +122,8 @@
             ]
         },
         {
+            "id": "8",
             "name": "CCTV-7",
-            "code": "cctv7",
             "logo": "cctv7.png",
             "url": [
                 "http://117.148.187.37/PLTV/88888888/224/3221226122/index.m3u8",
@@ -134,8 +136,8 @@
             ]
         },
         {
+            "id": "9",
             "name": "CCTV-8",
-            "code": "cctv8",
             "logo": "cctv8.png",
             "url": [
                 "http://117.169.120.140:8080/live/cctv-8/.m3u8",
@@ -157,6 +159,7 @@
             ]
         },
         {
+            "id": "10",
             "name": "CCTV-9",
             "logo": "cctv9.png",
             "url": [
@@ -174,8 +177,8 @@
             ]
         },
         {
+            "id": "11",
             "name": "CCTV-10",
-            "code": "cctv10",
             "logo": "cctv10.png",
             "url": [
                 "http://117.169.120.140:8080/live/cctv-10/.m3u8",
@@ -194,6 +197,7 @@
             ]
         },
         {
+            "id": "12",
             "name": "CCTV-11",
             "logo": "cctv11.png",
             "url": [
@@ -207,8 +211,8 @@
             ]
         },
         {
+            "id": "13",
             "name": "CCTV-12",
-            "code": "cctv12",
             "logo": "cctv12.png",
             "url": [
                 "http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8",
@@ -225,8 +229,8 @@
             ]
         },
         {
+            "id": "14",
             "name": "CCTV-13",
-            "code": "cctv13",
             "logo": "cctv13.png",
             "url": [
                 "http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8",
@@ -244,6 +248,7 @@
             ]
         },
         {
+            "id": "15",
             "name": "CCTV-14",
             "logo": "cctv14.png",
             "url": [
@@ -261,6 +266,7 @@
             ]
         },
         {
+            "id": "16",
             "name": "CCTV-15",
             "logo": "cctv15.png",
             "url": [
@@ -275,6 +281,7 @@
             ]
         },
         {
+            "id": "6241",
             "name": "CHC高清电影",
             "logo": "chc_hd_movie.png",
             "url": [
@@ -308,8 +315,8 @@
             ]
         },
         {
+            "id": "29",
             "name": "江苏卫视",
-            "code": "jiangsu",
             "logo": "jiangsu_tv.png",
             "url": [
                 "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8",
@@ -329,8 +336,8 @@
             ]
         },
         {
+            "id": "28",
             "name": "浙江卫视",
-            "code": "zhejiang",
             "logo": "zhejiang_tv.png",
             "url": [
                 "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227483/index.m3u8",
@@ -351,8 +358,8 @@
             ]
         },
         {
+            "id": "30",
             "name": "东方卫视",
-            "code": "dongfang",
             "logo": "dongfang_tv.png",
             "url": [
                 "http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8",
@@ -370,8 +377,8 @@
             ]
         },
         {
+            "id": "27",
             "name": "湖南卫视",
-            "code": "hunan",
             "logo": "hunan_tv.png",
             "url": [
                 "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225908/index.m3u8",
@@ -391,8 +398,8 @@
             ]
         },
         {
+            "id": "30",
             "name": "北京卫视",
-            "code": "beijing",
             "logo": "beijing_tv.png",
             "url": [
                 "http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8",
@@ -914,6 +921,7 @@
             ]
         },
         {
+            "id": "20",
             "name": "CGTN",
             "logo": "cgtn.png",
             "url": [
