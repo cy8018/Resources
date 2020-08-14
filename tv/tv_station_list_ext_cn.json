@@ -396,7 +396,7 @@
             ]
         },
         {
-            "id": "30",
+            "id": "31",
             "name": "东方卫视",
             "logo": "dongfang_tv.png",
             "url": [
@@ -784,8 +784,8 @@
         },
         {
             "id": "37",
-            "name": "旅游卫视",
-            "logo": "lvyou_tv.png",
+            "name": "海南卫视",
+            "logo": "hainan_tv.png",
             "url": [
                 "http://223.110.241.139:6610/gitv/live1/LYWS/LYWS/",
                 "http://ivi.bupt.edu.cn/hls/lytv.m3u8"
