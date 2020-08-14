@@ -312,12 +312,12 @@
             ]
         },
         {
-            "id": "6245",
-            "name": "CHC动作电影",
-            "logo": "chc_hd_movie.png",
+            "name": "黑莓电影",
+            "logo": "blackberry.png",
             "url": [
-                "http://itv.ahau.edu.cn/hls/chcatv.m3u8",
-                "rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv"
+                "http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8",
+                "http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8",
+                "http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8"
             ]
         },
         {
@@ -783,6 +783,15 @@
             ]
         },
         {
+            "id": "37",
+            "name": "旅游卫视",
+            "logo": "lvyou_tv.png",
+            "url": [
+                "http://223.110.241.139:6610/gitv/live1/LYWS/LYWS/",
+                "http://ivi.bupt.edu.cn/hls/lytv.m3u8"
+            ]
+        },
+        {
             "id": "54",
             "name": "山西卫视",
             "logo": "shanxi_tv.png",
@@ -850,6 +859,14 @@
                 "http://hbpx.chinashadt.com:2036/live/px4.stream/playlist.m3u8",
                 "http://weblive.hebtv.com/live/hbwsbq_bq/index.m3u8",
                 "http://weblive.hebtv.com/live/hbwsbq_lc/index.m3u8"
+            ]
+        },
+        {
+            "id": "63",
+            "name": "延边卫视",
+            "logo": "yanbian_tv.png",
+            "url": [
+                "http://223.110.241.139:6610/gitv/live1/G_YANBIAN/G_YANBIAN/"
             ]
         },
         {
@@ -964,59 +981,6 @@
             "url": [
                 "http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8",
                 "http://live.nbs.cn/channels/njtv/ylpd/flv:500k/live?1546706658123"
-            ]
-        },
-        {
-            "name": "BBC News",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://51.52.156.22:8888/http/004"
-            ]
-        },
-        {
-            "name": "BBC World News",
-            "logo": "bbc_world_news.png",
-            "url": [
-                "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
-            ]
-        },
-        {
-            "name": "CBSN",
-            "logo": "cbsn.png",
-            "url": [
-                "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8",
-                "http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8",
-                "https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8"
-            ]
-        },
-        {
-            "name": "NBC",
-            "logo": "nbc.png",
-            "url": [
-                "http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8",
-                "http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8"
-            ]
-        },
-        {
-            "name": "KIRO 7",
-            "logo": "kiro_7_news.png",
-            "url": [
-                "http://svc-lvanvato-cxtv-kiro.cmgvideo.com:80/kiro/1864k/index.m3u8",
-                "http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8"
-            ]
-        },
-        {
-            "name": "CBC News Network",
-            "logo": "cbc_news_network.png",
-            "url": [
-                "https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8"
-            ]
-        },
-        {
-            "name": "CTV News",
-            "logo": "ctv_news.png",
-            "url": [
-                "https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8"
             ]
         },
         {
