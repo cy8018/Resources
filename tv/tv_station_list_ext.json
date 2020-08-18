@@ -24,6 +24,15 @@
             ]
         },
         {
+            "name": "CNN",
+            "logo": "cnn.png",
+            "url": [
+                "http://185.232.53.5:2086/live/wickeduk/etqyhww45e/16216.m3u8",
+                "http://185.232.53.5:2086/live/wickeduk/etqyhww45e/64140.m3u8",
+                "http://185.232.53.5:2086/live/wickeduk/etqyhww45e/88702.m3u8"
+            ]
+        },
+        {
             "name": "CBS",
             "logo": "cbs.png",
             "url": [
