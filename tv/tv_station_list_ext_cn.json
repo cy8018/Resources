@@ -252,6 +252,7 @@
             "name": "CCTV-13",
             "logo": "cctv13.png",
             "url": [
+                "http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8",
                 "http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/",
                 "http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8",
                 "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8",
@@ -261,7 +262,6 @@
                 "http://121.31.30.90:8085/ysten-business/live/cctv-13/yst.m3u8",
                 "http://117.169.120.140:8080/live/cctv-13/.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8",
-                "http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8",
                 "http://183.207.249.71/PLTV/3/224/3221225560/index.m3u8",
                 "http://223.110.241.203:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/",
                 "http://223.110.242.130:6610/cntv/live1/cctv-13/cctv-13"
