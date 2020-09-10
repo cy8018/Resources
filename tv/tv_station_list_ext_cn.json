@@ -307,7 +307,6 @@
             "name": "CHC高清电影",
             "logo": "chc_hd_movie.png",
             "url": [
-
                 "http://ivi.bupt.edu.cn/hls/chchd.m3u8",
                 "http://itv.ahau.edu.cn/hls/chchd.m3u8"
             ]
@@ -320,25 +319,6 @@
                 "http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8",
                 "http://121.31.30.90:8085/ysten-business/live/jdianying/yst.m3u8"
-            ]
-        },
-        {
-            "name": "NewTV海外剧场",
-            "logo": "new_tv.png",
-            "url": [
-                "http://111.40.205.76/PLTV/88888888/224/3221225671/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/xiqumd/1.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8"
-            ]
-        },
-        {
-            "name": "NewTV明星大片",
-            "logo": "new_tv.png",
-            "url": [
-                "http://121.31.30.90:8085/ysten-business/live/mingxingdp/yst.m3u8",
-                "http://111.40.205.76/PLTV/88888888/224/3221225664/index.m3u8",
-                "http://117.148.187.37/PLTV/88888888/224/3221226751/index.m3u8",
-                "http://121.31.30.90:8085/ysten-business/live/mingxingdp/1.m3u8"
             ]
         },
         {
