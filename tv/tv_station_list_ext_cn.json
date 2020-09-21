@@ -259,6 +259,7 @@
             "name": "CCTV-13",
             "logo": "cctv13.png",
             "url": [
+                "http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8",
                 "http://39.135.135.58:80/wh7f454c46tw1932318020_1729817978/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8?icpid=88888888&RTS=1579029478&from=1&hms_devid=689",
                 "http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8",
                 "http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8",
@@ -317,8 +318,25 @@
             "name": "CHC高清电影",
             "logo": "chc_hd_movie.png",
             "url": [
+                "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8",
                 "http://ivi.bupt.edu.cn/hls/chchd.m3u8",
                 "http://itv.ahau.edu.cn/hls/chchd.m3u8"
+            ]
+        },
+        {
+            "id": "6245",
+            "name": "CHC动作电影",
+            "logo": "chc_hd_movie.png",
+            "url": [
+                "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8"
+            ]
+        },
+        {
+            "id": "6246",
+            "name": "CHC家庭影院",
+            "logo": "chc_hd_movie.png",
+            "url": [
+                "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8"
             ]
         },
         {
