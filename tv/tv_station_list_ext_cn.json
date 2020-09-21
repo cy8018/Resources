@@ -259,8 +259,8 @@
             "name": "CCTV-13",
             "logo": "cctv13.png",
             "url": [
+                "http://39.135.135.58:80/wh7f454c46tw1932318020_1729817978/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8?icpid=88888888&RTS=1579029478&from=1&hms_devid=689",
                 "http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8",
-                "http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/",
                 "http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8",
                 "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8",
                 "http://hhab.chinashadt.com:2136/live/di3.stream/playlist.m3u8",
@@ -274,8 +274,7 @@
                 "http://223.110.242.130:6610/cntv/live1/cctv-13/cctv-13",
                 "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229100/index.m3u8",
                 "http://112.17.40.140/PLTV/88888888/224/3221226193/index.m3u8",
-                "http://39.135.135.58:80/wh7f454c46tw1932318020_1729817978/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8?icpid=88888888&RTS=1579029478&from=1&hms_devid=689",
-                
+                "http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/"
             ]
         },
         {
@@ -319,8 +318,7 @@
             "logo": "chc_hd_movie.png",
             "url": [
                 "http://ivi.bupt.edu.cn/hls/chchd.m3u8",
-                "http://itv.ahau.edu.cn/hls/chchd.m3u8",
-                "rtmp://58.200.131.2:1935/livetv/chchd"
+                "http://itv.ahau.edu.cn/hls/chchd.m3u8"
             ]
         },
         {
