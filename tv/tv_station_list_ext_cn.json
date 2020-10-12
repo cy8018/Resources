@@ -1038,6 +1038,25 @@
                 "https://livedoc.cgtn.com/1000d/prog_index.m3u8",
                 "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8"
             ]
+        },
+        {
+            "name": "NBC News Now",
+            "logo": "nbc.png",
+            "url": [
+                "https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8"
+            ]
+        },
+        {
+            "name": "Global News",
+            "logo": "global_news.png",
+            "url": [
+                "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
+                "https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8",
+                "https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8",
+                "https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8",
+                "https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index_1.m3u8",
+                "https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8"
+            ]
         }
     ]
 }
