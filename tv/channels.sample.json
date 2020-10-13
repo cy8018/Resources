@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Sample Channel 1",
+    "logo": null,
+    "url": "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4",
+    "category": "News",
+    "language": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "country": {
+      "code": "us",
+      "name": "United States"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+  },
+    {
+    "name": "Sample Channel 2",
+    "logo": null,
+    "url": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+    "category": "Local",
+    "language": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "country": {
+      "code": "us",
+      "name": "United States"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+  }
+]
