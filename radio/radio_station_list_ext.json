@@ -308,12 +308,7 @@
             "description": "Western Washington's new FM choice for breaking news and stimulating talk.",
             "logo": "station_kiro.png",
             "url": [
-                "https://208.80.54.154/KIROAM_SC",
-                "https://69.31.54.141/KIROAM_SC",
-                "https://208.80.54.33/KIROAM_SC",
-                "https://192.173.28.41/KIROAMAAC_SC",
-                "https://208.80.54.29/KIROAMAAC_SC",
-                "https://192.173.28.54/KIROAMAAC_SC"
+                "http://208.80.54.147:3690/KIROFMAAC_SC"
             ]
         },
         {
