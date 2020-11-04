@@ -1038,7 +1038,9 @@
             "name": "CBSN",
             "logo": "cbsn.png",
             "url": [
-                "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
+                "https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8",
+                "https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8",
+                "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
             ]
         },
         {
