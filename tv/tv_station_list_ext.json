@@ -55,6 +55,13 @@
             ]
         },
         {
+            "name": "NBC News Now",
+            "logo": "nbc.png",
+            "url": [
+                "https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8"
+            ]
+        },
+        {
             "name": "NBC",
             "logo": "nbc.png",
             "url": [
