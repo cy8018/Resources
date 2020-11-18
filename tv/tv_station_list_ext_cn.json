@@ -352,13 +352,6 @@
             ]
         },
         {
-            "name": "Prive HD",
-            "logo": "prive.png",
-            "url": [
-                "https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8"
-            ]
-        },
-        {
             "id": "141",
             "name": "凤凰卫视",
             "logo": "phoenix.png",
@@ -1025,13 +1018,6 @@
                 "http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8",
                 "https://livedoc.cgtn.com/1000d/prog_index.m3u8",
                 "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8"
-            ]
-        },
-        {
-            "name": "NBC News Now",
-            "logo": "nbc.png",
-            "url": [
-                "https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8"
             ]
         },
         {
