@@ -704,6 +704,43 @@
             ]
         },
         {
+            "name": "Loadspeaker Talk",
+            "country": "US",
+            "province": "CO",
+            "city": "Fort Collins",
+            "style": "Talk",
+            "description": "Focus on women, BIPOC, and LGBTQIA+",
+            "logo": "",
+            "url": [
+                "https://stream.loudspeaker.fm/radio/8020/talk"
+            ]
+        },
+        {
+            "name": "100Hitz - Top 40",
+            "country": "US",
+            "province": "",
+            "city": "",
+            "style": "Music",
+            "description": "Hear the hottest new Top 40 hitz",
+            "logo": "",
+            "url": [
+                "http://173.244.215.162:8300/;"
+            ]
+        },
+        {
+            "name": "100hitz - 90 s Alternative",
+            "name": "100hitz - 90 s Alternative",
+            "country": "US",
+            "province": "",
+            "city": "",
+            "style": "Music",
+            "description": "The best of the best of 90’s Alternative",
+            "logo": "",
+            "url": [
+                "http://173.244.215.162:8220/;"
+            ]
+        },
+        {
             "name": "CKNW",
             "country": "CA",
             "province": "BC",
