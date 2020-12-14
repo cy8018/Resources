@@ -2,6 +2,42 @@
     "stations": 
     [
         {
+            "name": "Loudspeaker Talk",
+            "country": "US",
+            "province": "",
+            "city": "",
+            "style": "Talk",
+            "description": "podcasts,podcast,lgbtiqa*,lgbt,talk radio,talk,diversity",
+            "logo": "",
+            "url": [
+                "https://stream.loudspeaker.fm/radio/8020/talk"
+            ]
+        },
+        {
+            "name": "100Hitz - Top 40",
+            "country": "US",
+            "province": "",
+            "city": "",
+            "style": "Music",
+            "description": "Hear the hottest new Top 40 hitz",
+            "logo": "",
+            "url": [
+                "http://173.244.215.162:8300/;"
+            ]
+        },
+        {
+            "name": "100hitz - 90 s Alternative",
+            "country": "US",
+            "province": "",
+            "city": "",
+            "style": "Music",
+            "description": "The best of the best of 90’s Alternative",
+            "logo": "",
+            "url": [
+                "http://173.244.215.162:8220/;"
+            ]
+        },
+        {
             "name": "BBC World Service",
             "country": "UK",
             "province": "",
@@ -129,6 +165,16 @@
             "description": "Talk News 810 KGO. We're talking about the news.",
             "logo": "station_kgo.png",
             "url": [
+                "http://192.173.28.34/KGOAM_SC",
+                "http://192.173.28.34:3690/KGOAM_SC",
+                "http://192.173.28.42/KGOAMAAC_SC",
+                "http://192.173.28.42:3690/KGOAMAAC_SC",
+                "http://192.173.28.43/KGOAMAAC_SC",
+                "http://192.173.28.43:3690/KGOAMAAC_SC",
+                "http://192.173.28.48/KGOAM_SC",
+                "http://192.173.28.48:3690/KGOAM_SC",
+                "http://192.173.28.60/KGOAM_SC",
+                "http://192.173.28.60:3690/KGOAM_SC",
                 "http://208.80.54.9/KGOAM_SC",
                 "http://208.80.54.9:3690/KGOAM_SC",
                 "http://208.80.54.49/KGOAMAAC_SC",
@@ -142,17 +188,7 @@
                 "http://69.31.54.135/KGOAMAAC_SC",
                 "http://69.31.54.135:3690/KGOAMAAC_SC",
                 "http://69.31.54.149/KGOAMAAC_SC",
-                "http://69.31.54.149:3690/KGOAMAAC_SC",
-                "http://192.173.28.34/KGOAM_SC",
-                "http://192.173.28.34:3690/KGOAM_SC",
-                "http://192.173.28.42/KGOAMAAC_SC",
-                "http://192.173.28.42:3690/KGOAMAAC_SC",
-                "http://192.173.28.43/KGOAMAAC_SC",
-                "http://192.173.28.43:3690/KGOAMAAC_SC",
-                "http://192.173.28.48/KGOAM_SC",
-                "http://192.173.28.48:3690/KGOAM_SC",
-                "http://192.173.28.60/KGOAM_SC",
-                "http://192.173.28.60:3690/KGOAM_SC"
+                "http://69.31.54.149:3690/KGOAMAAC_SC"
             ]
         },
         {
@@ -215,18 +251,18 @@
             "description": "Los Angeles' source for ABC News, local news, traffic.",
             "logo": "station_kabc.png",
             "url": [
-                "http://208.80.54.9/KABCAM_SC",
-                "http://208.80.54.9:3690/KABCAM_SC",
-                "http://208.80.54.70/KABCAM_SC",
-                "http://208.80.54.70:3690/KABCAM_SC",
-                "http://208.80.54.78/KABCAMAAC_SC",
-                "http://208.80.54.78:3690/KABCAMAAC_SC",
                 "http://192.173.28.34/KABCAMAAC_SC",
                 "http://192.173.28.34:3690/KABCAMAAC_SC",
                 "http://192.173.28.48/KABCAMAAC_SC",
                 "http://192.173.28.48:3690/KABCAMAAC_SC",
                 "http://192.173.28.60/KABCAM_SC",
-                "http://192.173.28.60:3690/KABCAM_SC"
+                "http://192.173.28.60:3690/KABCAM_SC",
+                "http://208.80.54.9/KABCAM_SC",
+                "http://208.80.54.9:3690/KABCAM_SC",
+                "http://208.80.54.70/KABCAM_SC",
+                "http://208.80.54.70:3690/KABCAM_SC",
+                "http://208.80.54.78/KABCAMAAC_SC",
+                "http://208.80.54.78:3690/KABCAMAAC_SC"
             ]
         },
         {
@@ -713,31 +749,6 @@
             "logo": "",
             "url": [
                 "https://stream.loudspeaker.fm/radio/8020/talk"
-            ]
-        },
-        {
-            "name": "100Hitz - Top 40",
-            "country": "US",
-            "province": "",
-            "city": "",
-            "style": "Music",
-            "description": "Hear the hottest new Top 40 hitz",
-            "logo": "",
-            "url": [
-                "http://173.244.215.162:8300/;"
-            ]
-        },
-        {
-            "name": "100hitz - 90 s Alternative",
-            "name": "100hitz - 90 s Alternative",
-            "country": "US",
-            "province": "",
-            "city": "",
-            "style": "Music",
-            "description": "The best of the best of 90’s Alternative",
-            "logo": "",
-            "url": [
-                "http://173.244.215.162:8220/;"
             ]
         },
         {
