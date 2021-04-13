@@ -1045,15 +1045,23 @@
             ]
         },
         {
-            "name": "Global News",
-            "logo": "global_news.png",
+            "name": "NBC News",
+            "logo": "nbc.png",
             "url": [
-                "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
-                "https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8",
-                "https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8",
-                "https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8",
-                "https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index_1.m3u8",
-                "https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8"
+                "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8",
+                "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+                "https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8"
+            ]
+        },
+        {
+            "name": "CNN",
+            "logo": "cnn.png",
+            "url": [
+                "http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8",
+                "https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
+				"http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8",
+                "http://203.162.235.41:16918",
+                "https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd"
             ]
         }
     ]
