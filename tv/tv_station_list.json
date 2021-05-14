@@ -1,157 +1,122 @@
 {
     "stations": [
         {
-            "name": "BBC News",
-            "logo": "bbc_news.png",
+            "name": "Sample TV Channel 1",
+            "logo": "tv.png",
             "url": [
                 "http://51.52.156.22:8888/http/004"
             ]
         },
         {
-            "name": "BBC World News",
-            "logo": "bbc_world_news.png",
+            "name": "Sample TV Channel 2",
+            "logo": "tv.png",
             "url": [
-                "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
+                "http://51.52.156.22:8888/http/004"
             ]
         },
-        {
-            "name": "Sky News",
-            "logo": "sky_news.png",
+		{
+            "name": "Sample TV Channel 3",
+            "logo": "tv.png",
             "url": [
-                "https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true",
-                "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
-                "http://165.22.122.126:25461/live/zero/app/10.m3u8"
+                "http://51.52.156.22:8888/http/004"
             ]
         },
-        {
-            "name": "CNN",
-            "logo": "cnn.png",
+		{
+            "name": "Sample TV Channel 4",
+            "logo": "tv.png",
             "url": [
-                "http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11492.m3u8",
-                "http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/7232.m3u8",
-                "http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/881.m3u8",
-                "http://185.232.53.5:2086/live/wickeduk/etqyhww45e/16216.m3u8",
-                "http://185.232.53.5:2086/live/wickeduk/etqyhww45e/64140.m3u8",
-                "http://185.232.53.5:2086/live/wickeduk/etqyhww45e/88702.m3u8"
+                "http://51.52.156.22:8888/http/004"
             ]
         },
-        {
-            "name": "CBS",
-            "logo": "cbs.png",
+		{
+            "name": "Sample TV Channel 5",
+            "logo": "tv.png",
             "url": [
-                "http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8",
-                "http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8",
-                "http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8",
-                "http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8"
+                "http://51.52.156.22:8888/http/004"
             ]
         },
-        {
-            "name": "CBSN",
-            "logo": "cbsn.png",
+		{
+            "name": "Sample TV Channel 6",
+            "logo": "tv.png",
             "url": [
-                "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8",
-                "http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8",
-                "https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8"
+                "http://51.52.156.22:8888/http/004"
             ]
         },
-        {
-            "name": "NBC",
-            "logo": "nbc.png",
+		{
+            "name": "Sample TV Channel 7",
+            "logo": "tv.png",
             "url": [
-                "http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8",
-                "http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8"
+                "http://51.52.156.22:8888/http/004"
             ]
         },
-        {
-            "name": "NBC Pittsburgh",
-            "logo": "wpxi.png",
+		{
+            "name": "Sample TV Channel 8",
+            "logo": "tv.png",
             "url": [
-                "http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8"
+                "http://51.52.156.22:8888/http/004"
             ]
         },
-        {
-            "name": "NBC 6 Miami",
-            "logo": "nbc_6.png",
+		{
+            "name": "Sample TV Channel 9",
+            "logo": "tv.png",
             "url": [
-                "http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8",
-                "http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8"
+                "http://51.52.156.22:8888/http/004"
             ]
         },
-        {
-            "name": "NBC Bay Area",
-            "logo": "nbc_bay_area.png",
+		{
+            "name": "Sample TV Channel 10",
+            "logo": "tv.png",
             "url": [
-                "http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8",
-                "https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8",
-                "https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8"
+                "http://51.52.156.22:8888/http/004"
             ]
         },
-        {
-            "name": "NASA TV",
-            "logo": "nasa_tv.png",
+		{
+            "name": "Sample TV Channel 11",
+            "logo": "tv.png",
             "url": [
-                "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8"
+                "http://51.52.156.22:8888/http/004"
             ]
         },
-        {
-            "name": "KIRO 7 News",
-            "logo": "kiro_7_news.png",
+		{
+            "name": "Sample TV Channel 12",
+            "logo": "tv.png",
             "url": [
-                "http://svc-lvanvato-cxtv-kiro.cmgvideo.com:80/kiro/1864k/index.m3u8",
-                "http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8"
+                "http://51.52.156.22:8888/http/004"
             ]
         },
-        {
-            "name": "WGN TV Chicago",
-            "logo": "wgn_tv.png",
+		{
+            "name": "Sample TV Channel 13",
+            "logo": "tv.png",
             "url": [
-                "http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8",
-                "http://bit.ly/2z8NPLB"
+                "http://51.52.156.22:8888/http/004"
             ]
         },
-        {
-            "name": "WHIO TV Dayton",
-            "logo": "whio_tv.png",
+		{
+            "name": "Sample TV Channel 14",
+            "logo": "tv.png",
             "url": [
-                "http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8",
-                "http://svc-lvanvato-cxtv-whio.cmgvideo.com:80/whio/2596k/index.m3u8"
+                "http://51.52.156.22:8888/http/004"
             ]
         },
-        {
-            "name": "CBC News Network",
-            "logo": "cbc_news_network.png",
+		{
+            "name": "Sample TV Channel 15",
+            "logo": "tv.png",
             "url": [
-                "https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8"
+                "http://51.52.156.22:8888/http/004"
             ]
         },
-        {
-            "name": "CTV News",
-            "logo": "ctv_news.png",
+		{
+            "name": "Sample TV Channel 16",
+            "logo": "tv.png",
             "url": [
-                "https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8"
+                "http://51.52.156.22:8888/http/004"
             ]
         },
-        {
-            "name": "Sky News AU",
-            "logo": "sky_news.png",
+		{
+            "name": "Sample TV Channel 17",
+            "logo": "tv.png",
             "url": [
-                "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
-                "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8",
-                "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8",
-                "https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8"
-            ]
-        },
-        {
-            "name": "CGTN",
-            "logo": "cgtn.png",
-            "url": [
-                "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
-                "http://live.cgtn.com/1000/prog_index.m3u8",
-                "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
-                "http://live.cgtn.com/500/prog_index.m3u8",
-                "http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8",
-                "https://livedoc.cgtn.com/1000d/prog_index.m3u8",
-                "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8"
+                "http://51.52.156.22:8888/http/004"
             ]
         }
     ]
